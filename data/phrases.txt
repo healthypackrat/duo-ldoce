@@ -1,0 +1,2569 @@
+respect	【動】～（気持ち・意見など）を尊重する、～を尊敬する	SECTION 1
+will	【動】意思	SECTION 1
+individual	【名】個人	SECTION 1
+Take it easy.	【定】気楽にやれ	SECTION 1
+assure A (that)	【動】A(人)に～を確約する[保証する]	SECTION 1
+turn out (to be) ～	【動】(最終的に)～という結果になる	SECTION 1
+let go of ～/let ～go	【動】～を離す、～を捨てる	SECTION 1
+negative	【形】悲観的な	SECTION 1
+outlook (on～)	【名】(～に対する)見方[態度]、～観	SECTION 1
+maintain	【動】～(関係など)を維持する	SECTION 1
+positive	【形】積極的な、前向きな	SECTION 1
+attitude (to/toward～)	【名】(～に対する)態度	SECTION 1
+fair	【形】公平な	SECTION 1
+regardless of ～	【前】～にかかわらず	SECTION 1
+national	【形】国の、国内の	SECTION 1
+origin	【名】起源、生まれ	SECTION 1
+gender	【名】性別	SECTION 1
+creed	【名】(宗教上の)信条	SECTION 1
+equality	【名】平等	SECTION 1
+guarantee～	【動】～を保証する、～を約束する	SECTION 1
+constitution	【名】憲法	SECTION 1
+lean	【動】(-against[on]～)～に寄り掛かる	SECTION 1
+pillar	【名】柱、支柱	SECTION 1
+gaze (at～)	【動】(～を)じっと見つめる	SECTION 1
+statue	【名】彫像	SECTION 1
+liberty	【名】自由	SECTION 1
+pass by (～)	【動】(～の)そばを通り過ぎる	SECTION 1
+give off ～	【動】～(臭い・光・熱)を発する	SECTION 1
+subtle	【形】かすかな	SECTION 1
+scent	【名】香り	SECTION 1
+perfume	【名】香水	SECTION 1
+remind A of B	【動】AにBを思い出させる	SECTION 1
+ex-	【頭】前の-	SECTION 1
+smell (～)	【動】(～な)においがする	SECTION 1
+awful	【形】ひどい	SECTION 1
+taste～	【動】～な味がする	SECTION 1
+terrific	【形】すばらしい	SECTION 1
+soaked	【形】(雨などで)びしょ濡れの	SECTION 1
+sweat	【名】汗	SECTION 1
+stand back	【動】(邪魔・迷惑だから)後ろに下がる	SECTION 1
+stink	【動】悪臭がする、(ひどく)臭い	SECTION 1
+take a shower	【動】シャワーを浴びる	SECTION 1
+be beside oneself (with～)	【動】(～で)ひどく興奮する、取り乱す	SECTION 2
+scarcely	【副】ほとんど(～し)ない	SECTION 2
+tell A from B	【動】[通例can-]AをBと区別する	SECTION 2
+fact	【名】事実、現実	SECTION 2
+fiction	【名】作り話、虚構	SECTION 2
+novel	【名】(長編)小説(作品)	SECTION 2
+combine A with[and] B	【動】AとBを組み合わせる	SECTION 2
+prose	【名】散文	SECTION 2
+gift	【名】(天賦の)才能	SECTION 2
+poetry	【名】(文学の一分野の)詩	SECTION 2
+publish	【動】～を出版する	SECTION 2
+up-to-date～	【形】(情報などが)最新の～	SECTION 2
+edition	【名】(本などの)版	SECTION 2
+encyclopedia	【名】百科事典	SECTION 2
+come out	【動】(新製品が)発売される、(本が)出版される	SECTION 2
+translate (～) (from A into B)	【動】(～を)(AからBに)翻訳する	SECTION 2
+fascinating	【形】(人を)魅了する	SECTION 2
+fairy、fairy tale	【名】妖精、おとぎ話	SECTION 2
+tale	【名】話、物語	SECTION 2
+plain	【形】平易な	SECTION 2
+following	【形】以下の～	SECTION 2
+passage	【名】(文章などの)一節	SECTION 2
+quote (～)	【動】(～を)引用する	SECTION 2
+well-known	【形】有名な	SECTION 2
+fable	【名】寓話	SECTION 2
+be familiar with	【動】～を(よく)知っている	SECTION 2
+contemporary	【形】現代の	SECTION 2
+literature	【名】文学	SECTION 2
+next to ～	【定】ほとんど～、～の隣に	SECTION 2
+at times	【副】たまに、時々	SECTION 2
+confuse A with[and] B	【動】AとBを混同する	SECTION 2
+curve	【名】曲線、(道路などの)カーブ	SECTION 2
+carve	【動】～を彫る	SECTION 2
+shy	【形】恥ずかしがりの	SECTION 2
+pronunciation	【名】発音	SECTION 2
+more or less	【副】だいたい	SECTION 2
+correct	【形】正しい	SECTION 2
+article	【名】記事	SECTION 2
+contain ～	【動】～を含んでいる	SECTION 2
+tip	【名】役立つ情報	SECTION 2
+those who～	【代】～という人たち	SECTION 2
+be eager to do	【動】しきりに～したがっている	SECTION 2
+increase (～)	【動】～を増やす	SECTION 2
+vocabulary	【名】語彙	SECTION 2
+latest	【形】最新の	SECTION 2
+work	【名】作品、仕事、作業	SECTION 2
+be on display	【動】展示されている	SECTION 2
+city hall	【名】市庁舎	SECTION 2
+fabulous	【形】すてきな&lt;女性的&gt;	SECTION 2
+beyond description	【形】【副】言葉では表せない(ほど)	SECTION 2
+move over	【動】(人が座れるように)席を詰める	SECTION 2
+realize ～	【動】～ということに気付く	SECTION 2
+take up ～	【動】(必要以上に)～(空間・時間など)を取る	SECTION 2
+ugly	【形】醜い、不格好[不細工]な	SECTION 2
+object	【名】物体、物	SECTION 2
+a piece of ～	【形】1つ[1個]の	SECTION 2
+abstract	【形】抽象的な	SECTION 2
+beg (～)	【動】(～に)すがってお願いをする	SECTION 3
+lend A B(= lend B to A)	【動】A(人)にB(物・金)を貸す	SECTION 3
+buck	【名】ドル	SECTION 3
+shake one's head	【動】NOと言う、首を横に振る	SECTION 3
+be (flat) broke	【動】(全然)お金がない、すっからかんだ	SECTION 3
+be apt to do	【動】～しがちである	SECTION 3
+on impulse	【副】衝動的に	SECTION 3
+on sale	【副】バーゲン[特売]で	SECTION 3
+So am I.	【定】(先行文に答えて)私もそうです[同じです]	SECTION 3
+as it is	【副】(文頭で、残念ながら)実際のところ	SECTION 3
+ordinary	【形】普通の	SECTION 3
+can afford to do	【動】～する余裕がある	SECTION 3
+purchase	【動】～を購入する	SECTION 3
+luxury	【名】贅沢品	SECTION 3
+anticipate	【動】～を予期する	SECTION 3
+unemployment	【名】失業(状態)	SECTION 3
+rate	【動】率、割合	SECTION 3
+rise	【動】(数・量などが)上がる、増える	SECTION 3
+quarter	【名】四半期	SECTION 3
+in a row	【副】連続で	SECTION 3
+cut down to～	【動】～を減らす	SECTION 3
+expense	【名】出費	SECTION 3
+from now on	【副】これからは	SECTION 3
+keep track of	【動】～の動き[流れ]を常に記録する	SECTION 3
+daily	【形】毎日の	SECTION 3
+on a ～ basis	【副】～という基準[やり方]で	SECTION 3
+in any case	【副】とにかく、いずれにせよ	SECTION 3
+union	【名】労働組合	SECTION 3
+compromise (on)	【名】(～について)妥協する	SECTION 3
+certain	【形】(特定はできないが)ある	SECTION 3
+to ～ extent	【副】～の程度	SECTION 3
+competent	【形】(要求される一定の)能力[技能]を持つ	SECTION 3
+mechanic	【名】(機械の)整備士、修理士	SECTION 3
+be in demand	【動】需要がある	SECTION 3
+earn	【動】～(金)を稼ぐ	SECTION 3
+decent	【形】かなりよい	SECTION 3
+wages	【名】(時間・日数などで計算される)賃金	SECTION 3
+president	【名】大統領	SECTION 3
+announce	【動】～を公表[発表]する	SECTION 3
+concrete	【形】(計画などが)具体的な	SECTION 3
+carry～out	【動】(計画・任務など)～を実行する	SECTION 3
+welfare	【名】福祉	SECTION 3
+reform	【名】(制度などの)改革	SECTION 3
+policy	【名】政策	SECTION 3
+no doubt	【副】きっと	SECTION 3
+lead to	【動】～(結果)に至る	SECTION 3
+dismal	【形】(結果・状況などが)気分を暗くさせる	SECTION 3
+consequence	【名】(当然の)結果、影響	SECTION 3
+thorough	【形】(調査などが)徹底的な	SECTION 3
+review	【名】見直し	SECTION 3
+it goes without saying that ～	【定】～は言うまでもない	SECTION 3
+aging	【名】高齢化	SECTION 3
+inevitable	【形】避けられない	SECTION 3
+take a look at ～	【動】～をちょっと見る	SECTION 3
+chart	【名】図、表	SECTION 3
+indicate	【動】～(事実・長考など）を示す	SECTION 3
+juvenile	【形】青少年の、少年の	SECTION 3
+delinquency	【名】非行	SECTION 3
+be on the increase	【動】増加している	SECTION 3
+alarming	【形】(悪い事の増加が)深刻な	SECTION 3
+at a ～ rate	【副】～なペース[割合]で	SECTION 3
+district	【名】地区	SECTION 3
+a lot of ～/lots of ～	【形】たくさんの(数の)	SECTION 3
+vacant	【形】(家・座席などが)誰もいない	SECTION 3
+lot	【名】1区画	SECTION 3
+be for sale	【動】売り物である	SECTION 3
+population	【名】人口	SECTION 3
+density	【名】密度	SECTION 3
+metropolis	【名】大都市	SECTION 3
+gradually	【副】徐々に	SECTION 3
+decrease	【動】減少[低下]する	SECTION 3
+in all likelihood	【副】ほぼ間違いなく	SECTION 3
+birthrate	【名】出生率	SECTION 3
+continue to do	【動】～し続ける	SECTION 3
+decline	【動】減少する	SECTION 3
+steadily	【副】着実に	SECTION 3
+～ to come	【形】これから来る～	SECTION 3
+power	【名】(電気・ガスなどの)エネルギー	SECTION 4
+plant, power plant	【名】工場、発電所	SECTION 4
+supply A (with B)	【動】Aに(Bを)供給する	SECTION 4
+remote	【形】(距離などが)遠く離れた	SECTION 4
+county	【名】(米国の)郡	SECTION 4
+electricity	【名】電気	SECTION 4
+allow A to do	【動】Aに～することを許す	SECTION 4
+operate	【動】～(機械)を動かす[操作する]	SECTION 4
+device	【名】装置	SECTION 4
+permission	【名】(正式な)許可	SECTION 4
+in (actual) fact	【副】実際は	SECTION 4
+inhabitant	【名】住民	SECTION 4
+expose A to B	【動】AをBにさらす	SECTION 4
+radiation	【名】放射能、放射線	SECTION 4
+cannot do～too much	【構】いくら～しすぎてもし過ぎることはない	SECTION 4
+emphasize	【動】～を強調[力説]する	SECTION 4
+potential	【形】潜在的な	SECTION 4
+danger	【名】危険、危険性	SECTION 4
+nuclear	【形】核の、原子力の	SECTION 4
+energy	【名】(石油・電気などの）エネルギー	SECTION 4
+press	【名】[the-]報道陣[機関]	SECTION 4
+overlook	【動】(不注意で)～を見落とす[見過ごす]	SECTION 4
+if anything	【副】むしろ、どちらかと言えば	SECTION 4
+make ～ of A	【動】Aに対して～な評価[判断]をする	SECTION 4
+as well as ～	【前】～だけではなく	SECTION 4
+cultivate	【動】～(作物)を栽培する	SECTION 4
+grain	【名】(集合的に)穀物	SECTION 4
+farmer	【名】(近代的な)農業経営者	SECTION 4
+run	【動】～を経営[運営]する	SECTION 4
+grocery store	【名】食料雑貨店	SECTION 4
+research (into/on)	【名】(～に関する)研究[調査]	SECTION 4
+institute	【名】理系の大学、組織	SECTION 4
+establish	【動】～を設立する	SECTION 4
+late	【形】(the[one's])～後半の	SECTION 4
+1960s	【名】1960年代	SECTION 4
+Why don't you do ～？	【定】～したら？	SECTION 4
+consult ～ (about A)	【動】(Aに関して)～(専門家など)に相談する	SECTION 4
+in person	【副】(電話や代理人を使わず)本人と直接会って	SECTION 4
+by far	【副】(比較級・最上級を強めて)はるかに、間違いなく	SECTION 4
+prominent	【形】(人が)傑出した、著名な	SECTION 4
+attorney	【名】(米)弁護士	SECTION 4
+write～down	【動】(忘れないように)～を書き留める	SECTION 4
+just in case	【副】(文末に用いて)念のため	SECTION 4
+have a bad memory	【動】記憶力が悪い	SECTION 4
+recommend (that) A (should) do	【動】A(人)に～するのがいいと勧める	SECTION 4
+client	【名】(弁護士・設計事務所などの)依頼人、顧客	SECTION 4
+legal	【形】法的な	SECTION 4
+take (～) action	【動】(～な)行動を取る	SECTION 4
+insurance	【名】保険	SECTION 4
+be entitled to do	【動】～する権利がある	SECTION 5
+compensate (A) for B	【動】(A(人)の)B(損害)を保証する	SECTION 5
+injury	【名】けが、負傷	SECTION 5
+so far	【副】現在までに	SECTION 5
+no less than	【形】～もの(多くの)	SECTION 5
+die of[from]	【動】～（病気など)で死ぬ	SECTION 5
+flu	【名】[the-]インフルエンザ	SECTION 5
+epidemic	【名】(伝染病の)流行	SECTION 5
+effect	【名】効果	SECTION 5
+pill	【名】錠剤	SECTION 5
+intense	【形】(感情・勢いなどが)激しい、強烈な	SECTION 5
+brief	【形】短時間の、簡潔な	SECTION 5
+have a habit of doing	【動】～する(よくない)癖がある	SECTION 5
+bite	【動】(～を)噛む	SECTION 5
+nail	【名】爪	SECTION 5
+absolutely	【副】全く	SECTION 5
+disgusting	【形】ぞっとするような	SECTION 5
+grandma	【名】おばあちゃん	SECTION 5
+strain	【動】(無理をして)～(体の一部)を痛める	SECTION 5
+back	【名】背中、腰	SECTION 5
+bend down[over]	【動】腰をかがめる	SECTION 5
+hug	【動】～を(ぎゅっと)抱きしめる	SECTION 5
+stiff	【形】(筋肉などが)凝った	SECTION 5
+herbal	【形】薬草の、漢方の	SECTION 5
+remedy	【名】治療(法)	SECTION 5
+medical	【形】医学の	SECTION 5
+breakthrough	【名】(科学・技術などの)飛躍的な発展	SECTION 5
+bring ～ about	【動】～(変化など)をもたらす	SECTION 5
+benefit	【名】(非金銭的な)利益	SECTION 5
+humanity	【名】人類	SECTION 5
+～ as a whole	【形】～を全体[一つ]として	SECTION 5
+apply A to B	【動】A(理論など)をBに応用[適用]する	SECTION 5
+clone	【動】～のクローンを作る	SECTION 5
+technique	【名】(実用的な)技術	SECTION 5
+cattle	【名】(畜産用の)牛	SECTION 5
+let alone ～	【接】(否定文に続いて)～はなおさら(～でない)	SECTION 5
+human(being)	【名】(神・動物・機械に対して)人間	SECTION 5
+forbid	【動】(絶対的な圧力で)～を禁止する	SECTION 5
+whale	【名】鯨	SECTION 5
+classify	【動】～を分類する	SECTION 5
+mammal	【名】哺乳動物	SECTION 5
+theory	【名】理論、学説	SECTION 5
+evolution	【名】進化	SECTION 5
+beyond[out of] the reach of	【前】～の届かない範囲に	SECTION 5
+imagination	【名】想像力	SECTION 5
+biologist	【名】生物学者	SECTION 5
+be proud of	【名】～を誇りに思う	SECTION 5
+historic	【形】歴史的(に重要)な	SECTION 5
+discovery	【名】発見	SECTION 5
+boast about[of]	【動】～を自慢げに話す	SECTION 5
+ethical	【形】倫理上の、倫理的な	SECTION 5
+on ～ grounds	【副】～な理由から	SECTION 5
+be opposed to	【動】～に反対である	SECTION 5
+so-called	【形】いわゆる	SECTION 5
+gene	【名】遺伝子	SECTION 5
+therapy	【名】(特殊な)治療、療法	SECTION 5
+initial	【形】最初の	SECTION 5
+symptom	【名】(病気の)兆候、症状	SECTION 5
+disease	【名】病気	SECTION 5
+fever	【名】(病気による)高熱	SECTION 5
+sore	【形】(炎症などを起こして)痛い	SECTION 5
+throat	【名】喉	SECTION 5
+structure	【名】構造	SECTION 5
+brain	【名】脳	SECTION 5
+complex	【形】(構造などが)複雑な	SECTION 5
+owing to ～	【前】～のために、～が理由で	SECTION 5
+illness	【名】病気	SECTION 5
+representative	【名】代表(者)	SECTION 5
+be absent from	【動】～を欠席する	SECTION 5
+annual	【形】年に1度の	SECTION 5
+conference	【名】(公式の大きな)会議	SECTION 5
+little by little	【副】徐々に	SECTION 5
+son-in-law	【名】娘婿	SECTION 5
+recover from	【動】～(病気)から回復する	SECTION 5
+stomach	【名】胃	SECTION 5
+cancer	【名】癌	SECTION 5
+be in ～ spirits	【動】～な気分[精神状態]である	SECTION 5
+fake	【形】偽物の	SECTION 5
+genuine	【形】(物が)本物の	SECTION 5
+antique	【名】骨董品	SECTION 5
+No way!	【感】まさか(信じられない)	SECTION 5
+Anything else?	【定】ほかに何か？	SECTION 6
+That's it!	【定】(それで)以上です	SECTION 6
+For here or to go?	【定】こちらでお召し上がりですか？それともお持ち帰りですか？	SECTION 6
+rug	【名】敷物	SECTION 6
+including	【前】～を含めて	SECTION 6
+tax	【名】税金	SECTION 6
+I'll take it.	【定】それ[これ]にします[決めます]	SECTION 6
+pants	【名】パンツ、ズボン	SECTION 6
+look good[nice] on	【動】(服などが)～に似合う	SECTION 6
+try ～ on	【動】～を試しに着てみる	SECTION 6
+be in	【動】流行っている	SECTION 6
+get out (of)	【動】(～(小型車)から)降りる	SECTION 6
+cab	【名】タクシー	SECTION 6
+in haste	【副】急いで	SECTION 6
+Keep the change.	【定】おつりはいりません	SECTION 6
+delivery	【名】配達	SECTION 6
+service	【名】(便利な)サービス	SECTION 6
+available	【形】利用[入手・購入]可能な	SECTION 6
+customer	【名】客	SECTION 6
+slight	【形】(量・程度が)わずかな	SECTION 6
+extra	【形】追加の	SECTION 6
+charge	【名】料金	SECTION 6
+It's on me.	【定】(この支払は)私のおごりです	SECTION 6
+treat	【動】～にごちそうする[ごほうびをあげる]、～を扱う	SECTION 6
+every time ～	【接】～するときはいつでも	SECTION 6
+eat out	【動】外食する	SECTION 6
+split the check	【動】割り勘にする	SECTION 6
+check	【名】伝票	SECTION 6
+hang out	【動】何となく時間をすごす、ぶらぶらする	SECTION 6
+mall	【名】(巨大な)ショッピングセンター[モール]	SECTION 6
+run into	【動】～に偶然出会う	SECTION 6
+be short of	【動】～が不足している	SECTION 6
+withdraw	【動】～(預金など)を引き出す	SECTION 6
+deposit	【動】～(お金など)を預ける	SECTION 6
+account	【名】(銀行)口座	SECTION 6
+on the[one's] way (to)	【副】(～に向かう)途中で	SECTION 6
+rob A of B	【動】A(人)からB(物・金)を奪う	SECTION 6
+purse	【名】{米}(女性用の)ハンドバッグ	SECTION 6
+odd	【形】奇妙な	SECTION 6
+happen	【動】(偶然・不意に)起こる	SECTION 6
+explain A to B	【動】AをB(人)に説明する	SECTION 6
+curfew	【名】門限	SECTION 6
+punishment	【名】罰	SECTION 6
+break one's promise[word]	【動】約束を破る	SECTION 6
+as the proverb goes[says]	【副】諺にある通り	SECTION 6
+end	【名】(最終)目的	SECTION 6
+justify	【動】～を正当化する	SECTION 6
+means	【名】手段	SECTION 6
+Now (that) ～	【接】(さあ[いまや])～なのだから	SECTION 6
+turn to	【動】(辛い[困った]時)～に頼る	SECTION 6
+stand on one's own two feet	【動】自立する	SECTION 6
+chairman/chairwoman	【名】(会議などの)議長	SECTION 7
+cut ～ off	【動】～の話を遮る	SECTION 7
+wind (～) up	【動】(～)を終わりにする	SECTION 7
+take a vote	【動】決を採る	SECTION 7
+exchange	【動】～を交換する	SECTION 7
+frank	【形】(よい意味で)率直な	SECTION 7
+opinion	【名】意見、考え	SECTION 7
+meeting	【名】(会社などの)会議、打ち合わせ	SECTION 7
+consensus	【名】(グループ内の)まとまった意見	SECTION 7
+have[be] yet to do	【動】まだ～してない	SECTION 7
+reach	【動】(合計・結論)～に達する	SECTION 7
+regarding	【前】～に関して	SECTION 7
+matter	【名】事柄、問題	SECTION 7
+agree with	【動】～(人)と同じ意見である	SECTION 7
+disagree with	【動】～(人)と意見が異なる	SECTION 7
+be on one's side	【動】～の味方[側]である	SECTION 7
+strictly speaking	【副】厳密に言うと	SECTION 7
+view	【名】考え、見解	SECTION 7
+differ from	【動】～と異なる	SECTION 7
+somewhat	【副】いくらか	SECTION 7
+go over	【動】～(の全体)をよく見る[説明する/考える]	SECTION 7
+make ～ out	【動】[通例 can-]～（わかりにくいこと)を理解できる	SECTION 7
+be getting at	【動】～を言おうとしている	SECTION 7
+back (～) up	【動】～を後援[支持]する	SECTION 7
+at first	【副】最初は	SECTION 7
+eventually	【副】最終的には	SECTION 7
+talk A into doing	【動】A(人)を説得して～させる	SECTION 7
+go along with	【動】～(意見など)に賛成する	SECTION 7
+admire	【動】～をすばらしい[すごい]と思う、～に感心する	SECTION 7
+perseverance	【名】不屈の努力	SECTION 7
+courage	【名】勇気	SECTION 7
+wisdom	【名】知恵	SECTION 7
+You flatter me.	【定】お世辞でもうれしいよ	SECTION 7
+in doing	【前】～する時は	SECTION 7
+make a decision	【動】どうするか決める	SECTION 7
+rely on[upon]	【動】～に頼る	SECTION 7
+not A but B	【定】AではなくB	SECTION 7
+logic	【名】論理	SECTION 7
+instinct	【名】本能	SECTION 7
+come up with	【動】～(うまい考えなど)を考えだす	SECTION 7
+ingenious	【形】(考えなどが)独創的な	SECTION 7
+sensible	【形】(人・判断などが)賢明な	SECTION 7
+solution (to)	【名】(～に対する)解決策	SECTION 7
+immediately	【副】直ちに	SECTION 7
+put ～ into practice	【動】～(考え・計画など)を実行に移す	SECTION 7
+objective	【形】客観的な	SECTION 7
+from ～ viewpoint	【副】～の見地[観点]からすると	SECTION 7
+former	【名】[the-]前者	SECTION 7
+be inferior to	【動】～よりも劣る	SECTION 7
+latter	【名】[the-]後者	SECTION 7
+sound	【動】(聞いたところ)～のようだ	SECTION 7
+marvelous	【形】すばらしい	SECTION 7
+in theory	【副】理論的には	SECTION 7
+yet	【接】しかし(それでも)	SECTION 7
+in practice	【副】(理論ではなく)実際には	SECTION 7
+expect A to do	【動】Aが～することを期待する	SECTION 7
+defeat	【動】～に勝つ、～を負かす	SECTION 7
+opponent	【名】(論争・試合などの)相手、対抗者	SECTION 7
+fail to do	【動】(そうすべきなのに)～しない、～し損なう	SECTION 7
+live up to one's expectations	【動】～の期待に応える	SECTION 7
+ironically	【副】皮肉にも	SECTION 7
+despite	【前】～にもかかわらず	SECTION 7
+endeavor	【名】(壮大な)試み、努力	SECTION 7
+mission	【名】(政治的・軍事的な)任務、使命	SECTION 7
+result in	【動】～(結果)に終わる	SECTION 7
+complete	【形】全くの	SECTION 7
+failure	【名】失敗	SECTION 7
+genius	【名】天賦の才能	SECTION 7
+make up for	【動】～(マイナス状態)を埋め合わせる	SECTION 7
+lack	【名】欠乏、不足	SECTION 7
+firsthand	【形】(情報などが)直接得た	SECTION 7
+experience	【名】経験	SECTION 7
+possess	【動】～を所有する	SECTION 7
+capacity	【名】(人の)能力	SECTION 7
+overcome	【動】～を克服する	SECTION 7
+obstacle	【名】障害	SECTION 7
+without	【名】(その時)～がなかったら[いなかった]なら	SECTION 7
+solid	【形】しっかりした、団結した	SECTION 7
+support	【名】支持	SECTION 7
+deal	【名】取引	SECTION 7
+would have done	【動】～していただろう	SECTION 7
+fall through	【動】(交渉・計画などが)うまくいかない	SECTION 7
+be grateful to ～ (for A)	【動】(Aのことで)～に感謝している	SECTION 7
+flammable	【形】可燃性の	SECTION 8
+item	【名】品目	SECTION 8
+cabin	【名】(飛行機・船などの)客室	SECTION 8
+prohibit	【動】(法律・規制で)～(行為)を禁止する	SECTION 8
+flight	【名】(飛行機の)便	SECTION 8
+Vienna	【名】ウィーン	SECTION 8
+delay	【動】～を遅らせる	SECTION 8
+on account of	【前】～(好ましくないこと)が理由で	SECTION 8
+minor	【形】(程度・重要度などが)小さな	SECTION 8
+accident	【名】事故	SECTION 8
+plane	【名】飛行機	SECTION 8
+blow(～)up	【動】(建物などが)爆発する	SECTION 8
+plunge (～) (into A)	【動】(Aに)勢いよく[激しく]飛び込む	SECTION 8
+ocean	【名】[the-]海	SECTION 8
+～ on board	【形】(飛行機などに)乗っている	SECTION 8
+around the clock	【副】昼夜休むことなく	SECTION 8
+look into	【動】～を調査する	SECTION 8
+cause	【名】原因	SECTION 8
+crash	【名】(飛行機の)墜落	SECTION 8
+unfortunately	【副】不幸[不運]にも	SECTION 8
+few	【形】(数が)ほとんどない[いない]	SECTION 8
+passenger	【名】(乗り物に)乗る人、乗客	SECTION 8
+survive	【動】(～(事故など)で)生き残る	SECTION 8
+catastrophe	【名】大惨事	SECTION 8
+aviation	【名】航空	SECTION 8
+expert	【名】専門家、評論家	SECTION 8
+analyze	【動】～を分析する	SECTION 8
+statistics	【名】統計	SECTION 8
+in detail	【副】詳細に	SECTION 8
+on behalf of	【前】～の代表[代理]として	SECTION 8
+staff	【名】社員、職員(全体)	SECTION 8
+express	【動】～を表現する	SECTION 8
+sympathy	【名】同情、共感	SECTION 8
+victim	【名】犠牲者、被害者	SECTION 8
+in a sense	【副】ある意味では	SECTION 8
+A is to blame (for B)	【動】(Bは)Aのせいだ	SECTION 8
+disaster	【名】惨事	SECTION 8
+vehicle	【名】車両、乗り物	SECTION 8
+inspect	【動】～を(綿密に)検査する	SECTION 8
+defect	【名】(機械などの)欠陥	SECTION 8
+every	【形】～ごとに	SECTION 8
+be amazed to hear[see, etc]	【動】～を聞いて[見て](とても)驚く	SECTION 9
+utility	【名】(公益サービスの)電気、ガス、水道	SECTION 9
+bill	【名】請求書	SECTION 9
+come to (1)	【動】(合計が)～になる	SECTION 9
+turn ～off	【動】～(水栓)を止める	SECTION 9
+faucet	【名】{米}水道の栓	SECTION 9
+yell	【動】(興奮して)(～と)叫ぶ	SECTION 9
+in a rage	【副】激怒して	SECTION 9
+tighten	【動】～をきつく締める	SECTION 9
+lid	【名】（箱・鍋などの)蓋	SECTION 9
+so (that) A will do	【構】Aが～するように	SECTION 9
+go bad	【動】(食べ物などが)腐る、いたむ	SECTION 9
+borrow	【動】～(もの)を(無料で)借りる	SECTION 9
+scissors	【名】はさみ	SECTION 9
+sure	【副】もちろん	SECTION 9
+Here you are.	【定】(物を渡すときに)はいどうぞ	SECTION 9
+substitute ～ (for A)	【動】～を(Aの)代わりに使う	SECTION 9
+transparent	【形】透明な	SECTION 9
+glue	【名】接着剤	SECTION 9
+needle	【名】縫い針	SECTION 9
+thread	【名】(裁縫用)の糸	SECTION 9
+dye	【動】～を染める	SECTION 9
+fabric	【名】織物、生地	SECTION 9
+shrink-shrank-shrunk	【動】縮む	SECTION 9
+get rid of	【動】～を処分する[捨てる]	SECTION 9
+leather	【名】革	SECTION 9
+wear (～) out	【動】～をすり切らす	SECTION 9
+elbow	【名】(服)肘の部分	SECTION 9
+add A to B	【動】AをBに加える	SECTION 9
+flour	【名】小麦粉	SECTION 9
+mixture	【名】混合物	SECTION 9
+stir	【動】～をかき混ぜる	SECTION 9
+thick	【形】濃い、とろみのある	SECTION 9
+do with	【動】～をどうにかする[扱う]	SECTION 9
+leftovers	【名】(食事の)残り物	SECTION 9
+fridge	【名】冷蔵庫	SECTION 9
+for now	【副】とりあえず	SECTION 9
+microwave	【名】電子レンジ	SECTION 9
+lay ～ out	【動】～(大金)をつぎ込む	SECTION 9
+on second thought	【副】考え直して	SECTION 9
+decide to do	【動】～することに決める	SECTION 9
+put ～ aside	【動】～(物・お金など)を取っておく	SECTION 9
+for a rainy day	【副】まさかの時のために	SECTION 9
+cell phone	【名】携帯電話	SECTION 9
+something of a	【形】ちょっとした	SECTION 9
+necessity	【名】必需品	SECTION 9
+do without	【動】～なしでやっていく	SECTION 9
+no sooner A than B	【構】Aした途端にBが起きる	SECTION 9
+sit back	【動】ゆったりと座る	SECTION 9
+relax	【動】くつろぐ	SECTION 9
+chore	【名】[-s]雑用	SECTION 9
+lay-laid-laid	【動】～を(そっと)置く	SECTION 9
+lie down(lie-lay-lain)	【動】(体を休めるために)横になる	SECTION 9
+put ～ away	【動】～を(収納場所に）片付ける	SECTION 10
+stuff	【名】もの、こと	SECTION 10
+in one's way/in the way(of)	【副】(～の)邪魔になって	SECTION 10
+make believe (that～)	【動】(～の)まねをして遊ぶ	SECTION 10
+dinosaur	【名】恐竜	SECTION 10
+scold ～ (for A)	【動】(Aのことで)～(子供)を叱る	SECTION 10
+bump into	【動】～に(ドンと)ぶつかる	SECTION 10
+shelf	【名】棚	SECTION 10
+priceless	【形】とても高価な	SECTION 10
+china	【名】陶磁器	SECTION 10
+shatter	【動】粉々になる	SECTION 10
+fragment	【名】(割れた)破片	SECTION 10
+keep an eye on	【動】(万が一のことが起こらないよう)～から目を離さない、～を気をつけて見る	SECTION 10
+for a while	【副】少しの間	SECTION 10
+pick ～ up	【動】(車で)～を迎えに行く	SECTION 10
+neighbor	【名】隣の住人	SECTION 10
+tell ～ off (for A)	【動】(Aのことで)～(人)にがみがみ説教をする	SECTION 10
+mess	【名】散らかっていて汚い状態[もの]	SECTION 10
+yard	【名】{米}(家の周りの)庭	SECTION 10
+resemble	【動】～に(外見などが)似ている	SECTION 10
+big sister	【名】姉	SECTION 10
+in ～ way	【副】～の点[意味]で	SECTION 10
+tell～apart	【動】～(複数の人[もの])を見分ける	SECTION 10
+as a (general) rule	【副】概して	SECTION 10
+twin	【名】双子の一方	SECTION 10
+have a lot[nothing] in common (with～)	【動】(～と)共通点が多い[ない]	SECTION 10
+be tired of	【動】～にうんざりしている	SECTION 10
+do the dishes	【動】食器を洗う	SECTION 10
+do the laundry	【動】洗濯する	SECTION 10
+and so on[forth]	【副】など	SECTION 10
+favorite	【形】(一番の)お気に入りの	SECTION 10
+pastime	【名】余暇の楽しみ	SECTION 10
+stroll	【動】(リラックスして)ぶらぶらと歩く、散歩する	SECTION 10
+shore	【名】海岸、湖岸	SECTION 10
+pleasant	【形】(性格・雰囲気などが)楽しい、心地よい	SECTION 10
+be exhausted (from[by] ～)	【動】(～で)疲れ切っている	SECTION 10
+take a break	【動】一休みする	SECTION 10
+shade	【名】日陰	SECTION 10
+Why not?	【定】(勧誘の問に対して)もちろん	SECTION 10
+vending machine	【名】自動販売機	SECTION 10
+out of order	【形】調子が悪い、故障中の	SECTION 10
+be dying of	【動】～(空腹・退屈など)で死にそうだ、たまらなく～だ	SECTION 10
+thirst	【名】喉の渇き	SECTION 10
+faint	【動】気を失う	SECTION 10
+hunger	【名】空腹	SECTION 10
+fatigue	【名】(倒れる寸前の)疲労	SECTION 10
+come to (2)	【動】意識を回復する	SECTION 10
+after a while	【副】しばらくして	SECTION 10
+auditorium	【名】{米}講堂	SECTION 11
+empty	【形】(中が)空の	SECTION 11
+except for	【前】～を除いては	SECTION 11
+furniture	【名】[集合的に]家具	SECTION 11
+apartment	【名】マンション	SECTION 11
+will do	【動】十分である、間に合う	SECTION 11
+as long as ～	【接】～である限り	SECTION 11
+rent	【名】家賃、賃料	SECTION 11
+be particular with	【動】～の好みがうるさい	SECTION 11
+～-year-old	【形】～歳の	SECTION 11
+inherit	【動】～(財産)を相続する	SECTION 11
+real estate	【名】不動産	SECTION 11
+so much for	【定】～はここまでにしましょう	SECTION 11
+small talk	【名】(当たり障りのない)世間話、雑談	SECTION 11
+get down to	【動】(本気で)～(仕事など)に取りかかる	SECTION 11
+resent	【動】～に腹を立てる	SECTION 11
+aggressive	【形】強引な、押しの強い	SECTION 11
+salesman/saleswoman	【名】販売員	SECTION 11
+make A do	【動】(一方的に[無理に])Aに～させる	SECTION 11
+sign	【動】(～に)署名する	SECTION 11
+contract	【名】契約、契約書	SECTION 11
+a number of	【形】かなりの	SECTION 11
+factor	【名】(結果や判断に影響を与える)要因、要素	SECTION 11
+discourage A from doing	【動】Aに～する気をなくさせる	SECTION 11
+invest (A) (in B)	【動】(Aを)(Bに)投資する	SECTION 11
+stock	【名】株、株式	SECTION 11
+import	【動】～を輸入する	SECTION 11
+various	【形】様々な	SECTION 11
+raw	【形】生の	SECTION 11
+raw materials	【名】(石油などの)原料	SECTION 11
+export	【動】～を輸出する	SECTION 11
+manufacture	【動】(大規模に)～を製造する	SECTION 11
+goods	【名】商品、品物	SECTION 11
+in the course of	【前】(長い)～の過程に	SECTION 11
+economic	【形】経済の	SECTION 11
+development	【名】発達、発展	SECTION 11
+abandon	【動】～を見捨てる	SECTION 11
+traditional	【形】伝統的な	SECTION 11
+value	【名】[-s]価値観	SECTION 11
+be faced with	【動】～(大変なこと)に直面する	SECTION 11
+unprecedented	【形】いまだかつてない	SECTION 11
+crisis	【名】危機	SECTION 11
+in short	【副】要するに	SECTION 11
+purpose	【名】目的	SECTION 11
+regulation	【名】[-s]規制	SECTION 11
+protect	【動】～を保護する	SECTION 11
+domestic	【形】国内の	SECTION 11
+industry	【名】産業	SECTION 11
+in order to do	【副】～する目的で	SECTION 11
+keep ～up	【動】～を維持する	SECTION 11
+competitiveness	【名】(製品などの)競争力	SECTION 11
+undertake	【動】～に着手する	SECTION 11
+sweeping	【形】(変化などが)大幅な	SECTION 11
+deregulation	【名】規制緩和[撤廃]	SECTION 11
+in earnest	【副】【形】真剣に[な]	SECTION 11
+turn one's back on	【動】～に背を向ける	SECTION 12
+desperate	【形】(人が)わらにもすがる思いの	SECTION 12
+be at risk (of[for] ～)	【動】(～の)危険[危機]にさらされている	SECTION 12
+parliament	【名】議会	SECTION 12
+provide A with B	【動】AにBを提供する	SECTION 12
+developing country	【名】発展途上国	SECTION 12
+financial	【形】財政の、財政的な	SECTION 12
+aid	【名】(財政面・物資面での)援助	SECTION 12
+monarchy	【名】君主国、君主政治	SECTION 12
+abolish	【動】～(制度・法律など)を廃止する	SECTION 12
+What do you think (of/about ～)?	【定】(～について)どう思う？	SECTION 12
+seek	【動】～を探し求める	SECTION 12
+shelter	【名】(悪天候や爆撃などから身を守る)安全な場所	SECTION 12
+attack	【名】攻撃	SECTION 12
+hide	【動】隠れる	SECTION 12
+prospect	【名】可能性、見込み	SECTION 12
+significant	【形】(注目に値する)大きな	SECTION 12
+make～progress (in A)	【動】(Aで)～な進歩[進展]をする	SECTION 12
+disarmament	【名】軍備縮小	SECTION 12
+negotiation	【名】[-s]交渉	SECTION 12
+be under way	【動】(ある状況が)進行中である	SECTION 12
+before long	【副】間もなく、近いうちに	SECTION 12
+enter	【動】～に入る	SECTION 12
+crucial	【形】極めて重大[重要]な	SECTION 12
+phase	【名】(段階的に変化する)局面、段階	SECTION 12
+slave	【名】奴隷	SECTION 12
+be anxious to do	【動】～したいと切望している	SECTION 12
+alter	【動】～を(部分的に)変える	SECTION 12
+destiny	【名】運命	SECTION 12
+aristocrat	【名】貴族(の一人)	SECTION 12
+abuse	【動】～を乱用[悪用]する	SECTION 12
+privilege	【名】特権	SECTION 12
+do～to one's heart's content	【動】思う存分に～する	SECTION 12
+revolution	【名】革命	SECTION 12
+in itself	【副】それ自体は[が]	SECTION 12
+bear	【動】～(果実)を実らす	SECTION 12
+bear fruit	【動】(交渉などが)成果を生む	SECTION 12
+after all	【副】結局、やはり	SECTION 12
+cut in (on～)	【動】（～(会話など)に)割り込む	SECTION 13
+conversation	【名】会話	SECTION 13
+be against	【動】～(意見など)に反対である	SECTION 13
+ignore	【動】～を無視する	SECTION 13
+skip	【動】～(順番など)を飛ばす	SECTION 13
+turn	【名】順番	SECTION 13
+on purpose	【副】わざと	SECTION 13
+bully	【動】(～を)いじめる	SECTION 13
+turn a blind eye (to～)	【動】(～を)見て見ぬふりをする	SECTION 13
+cheat on	【動】～で不正行為[カンニング]をする	SECTION 13
+suspend	【動】～を停職[停学]にする、つるす	SECTION 13
+as for	【前】～はと言うと	SECTION 13
+get away with	【動】～の罪をまんまと逃れる	SECTION 13
+hostile (to/toward)	【形】(～に対して)敵対的な	SECTION 13
+be jealous of	【動】～を妬んでいる	SECTION 13
+wealth	【名】富	SECTION 13
+status	【名】(社会的な高い)地位	SECTION 13
+hate	【動】～が大嫌い	SECTION 13
+behave	【動】(～のように)振る舞う	SECTION 13
+as if[though]	【接】まるで～であるかのように	SECTION 13
+somebody	【名】すごい人、大物	SECTION 13
+in spite of	【前】～にもかかわらず、～なのに	SECTION 13
+compliment	【名】ほめ言葉	SECTION 13
+frown	【動】顔をしかめる	SECTION 13
+turn away	【動】顔をそむける	SECTION 13
+rude	【形】失礼な	SECTION 13
+claim	【動】(事実は)～だと主張[断言]する	SECTION 13
+enormous	【形】莫大な	SECTION 13
+property	【名】(集合的に)財産	SECTION 13
+at one's disposal	【形】～の自由にできる	SECTION 13
+the 比較級 S+V、the 比較級 S+V	【接】～すればするほど～	SECTION 13
+stubborn	【形】頑固な	SECTION 13
+isolated	【形】孤立した	SECTION 13
+beat around the bush	【動】話をじらす	SECTION 13
+be supposed to do	【動】(当然)～するものだと思われている	SECTION 13
+Just wait and see.	【定】慌てずに待つしかないよ	SECTION 13
+(Only) time will tell.	【定】時が経てば分かる	SECTION 13
+hand ～ in	【動】～(レポートなど)を提出する	SECTION 14
+assignment	【名】(研究)課題、宿題	SECTION 14
+via	【前】～を使って	SECTION 14
+no[not] later than	【定】～までに	SECTION 14
+anything but	【定】とても～とは思えない、決して～ではない	SECTION 14
+diligent	【形】勤勉な	SECTION 14
+That's why	【接】(前の文を受けて)そういうわけで～だ	SECTION 14
+flunk	【動】(～(科目・学科))を落とす	SECTION 14
+math	【名】数学	SECTION 14
+thesis	【名】(学位)論文	SECTION 14
+make sense	【動】意味をなす	SECTION 14
+to begin[start] with	【副】(文頭で)まず(第一に)	SECTION 14
+theme	【名】主題	SECTION 14
+obscure	【形】曖昧な	SECTION 14
+essay	【名】小論文	SECTION 14
+concise	【形】簡潔な	SECTION 14
+to the point	【形】要領を得た	SECTION 14
+deal with	【動】～(問題など)に対処する、～を処理する	SECTION 14
+complicated	【形】複雑な、込み入った	SECTION 14
+leave A to B	【動】A(仕事など)をB(人)に任せる	SECTION 14
+(It's) a piece of cake.	【定】朝飯前だよ	SECTION 14
+look ～ over	【動】～(書類など)にざっと目を通す	SECTION 14
+turn ～ in	【動】{米}～を提出する	SECTION 14
+I have my hands full.	【定】手が放せないんだ	SECTION 14
+right now	【副】今現在	SECTION 14
+What if ～?	【定】もし～ならどうなるだろう？	SECTION 14
+meet	【動】～(基準・要求など)を満たす	SECTION 14
+meet the deadline	【動】期限に間に合わせる	SECTION 14
+I bet (that) ～	【動】きっと～だ	SECTION 14
+get[be] mad[angry] at	【動】～(人)に腹を立てる[腹を立てている]	SECTION 14
+summary	【名】要約	SECTION 14
+leave nothing to be desired	【動】申し分ない	SECTION 14
+apart[aside] from	【前】～以外は	SECTION 14
+terrible	【形】(程度などが)ひどい	SECTION 14
+handwriting	【名】(手書きの)字	SECTION 14
+ought to do	【助】～するべきである	SECTION 14
+think～over	【動】～を(どうしたらいいのか)よく[慎重に]考える	SECTION 14
+premise	【名】(論理などの)前提	SECTION 14
+valid	【形】(理由・議論などが)妥当な	SECTION 14
+above all	【副】とりわけ	SECTION 14
+scientific	【形】科学の	SECTION 14
+term	【名】(専門)用語	SECTION 14
+call for	【動】～を必要とする	SECTION 14
+precise	【形】厳密な	SECTION 14
+definition	【名】定義	SECTION 14
+first of all	【副】何よりもまず	SECTION 15
+formula	【名】(数学など)公式	SECTION 15
+learn ～ by heart	【動】～を暗記する	SECTION 15
+calculate	【動】～を計算する	SECTION 15
+volume	【名】体積、容積	SECTION 15
+multiply A by B	【動】AにBを掛ける	SECTION 15
+length	【名】縦	SECTION 15
+width	【名】横	SECTION 15
+depth	【名】深さ	SECTION 15
+tiny	【形】とても小さな	SECTION 15
+crack	【名】ひび	SECTION 15
+bottom	【名】[the-]底	SECTION 15
+barrel	【名】樽	SECTION 15
+chapter	【名】(書物などの)章	SECTION 15
+focus on	【動】～に焦点をあてる	SECTION 15
+concept	【名】概念、考え	SECTION 15
+geometry	【名】幾何学	SECTION 15
+be interested (in)	【動】(～に)関心[興味]がある	SECTION 15
+academic	【形】(純粋に)学問的な	SECTION 15
+subject	【名】主題、テーマ	SECTION 15
+practical	【形】実用的な	SECTION 15
+skill	【名】(実用的な)技能[技術]	SECTION 15
+go wrong with	【動】～(機械)の調子が悪くなる	SECTION 15
+microscope	【名】顕微鏡	SECTION 15
+have A done	【動】(専門家の人に)Aを～してもらう	SECTION 15
+have ～ repaired	【動】～を(誰かに)修理してもらう	SECTION 15
+Let me see it.	【定】(ちょっと)見せて	SECTION 15
+fix	【動】～を修理する	SECTION 15
+instrument	【名】(医療・計測用などの)器具	SECTION 15
+for instance	【副】例えば	SECTION 15
+gauge/gage	【名】計器	SECTION 15
+such as	【前】(例えば)～とか[みたいな]	SECTION 15
+thermometer	【名】温度計	SECTION 15
+barometer	【名】気圧計	SECTION 15
+minute (1)	【形】極めて小さい[細かい]	SECTION 15
+particle	【名】粒子	SECTION 15
+barely	【副】何とか～(する)、かろうじて～	SECTION 15
+visible	【形】目に見える	SECTION 15
+the naked eye	【名】肉眼	SECTION 15
+muscle	【名】筋肉	SECTION 15
+tissue	【名】(細胞からなる動植物の)組織	SECTION 15
+consist of	【動】～から成る	SECTION 15
+vast	【形】膨大な	SECTION 15
+cell	【名】細胞	SECTION 15
+substance	【名】物質	SECTION 15
+mostly	【副】主に	SECTION 15
+be composed of	【動】～から構成されている	SECTION 15
+hydrogen	【名】水素	SECTION 15
+oxygen	【名】酸素	SECTION 15
+exact	【形】正確な	SECTION 15
+temperature	【名】温度、体温	SECTION 15
+degree	【名】(温度・角度の)度	SECTION 15
+Celsius	【名】セ氏	SECTION 15
+show (～) off	【動】(～を)見せびらかす[ひけらかす]	SECTION 16
+perfect	【形】完璧な	SECTION 16
+figure	【名】(女性の)体型[スタイル]	SECTION 16
+I wish (that)	【動】～だったらなあ	SECTION 16
+thin	【形】(人が)細い、痩せた	SECTION 16
+envy	【動】～を羨む	SECTION 16
+go[be] on a diet	【動】ダイエットを始める[中である	SECTION 16
+fall in love (with)	【動】(～に)恋をする	SECTION 16
+at first sight	【副】一目見ただけで	SECTION 16
+take a chance	【動】思い切ってやってみる	SECTION 16
+propose (to～)	【動】(～に)結婚を申し込む	SECTION 16
+turn ～ down	【動】～(人)のお願いごとを断る	SECTION 16
+by chance	【副】偶然に	SECTION 16
+gentle	【形】(人などの性質が)優しい	SECTION 16
+smart	【形】(人・機械などが)頭のいい	SECTION 16
+what's more	【副】おまけに	SECTION 16
+single	【形】独身の	SECTION 16
+nephew	【名】甥	SECTION 16
+bring ～ up	【動】～(子供)を育てる	SECTION 16
+modest	【形】謙虚な	SECTION 16
+considerate	【形】(他人に対して)思いやりのある	SECTION 16
+introduce ～ (to A)	【動】～を(Aに)紹介する	SECTION 16
+folks	【名】[one's-]両親	SECTION 16
+take to	【動】～が好きになる	SECTION 16
+at once	【副】すぐに	SECTION 16
+judge	【動】(～を)判断する	SECTION 16
+not so much A as B	【構】AというよりもむしろB	SECTION 16
+how A looks	【名】A(人・物)の外見、見た目	SECTION 16
+who[what] I am	【名】本当の自分、現在の自分	SECTION 16
+it is A that ～	【構】Aこそが～だ	SECTION 16
+title	【名】肩書き	SECTION 16
+count	【動】重要である	SECTION 16
+for sure	【副】確かに	SECTION 16
+exclaim	【動】(～と)語気を強めて言う	SECTION 16
+as ～ put it	【動】～(人)が言うように	SECTION 16
+self-made	【形】(人が)自らの努力で成功[出世]した	SECTION 16
+～of A	【前】A(という性質)を持つ～	SECTION 16
+vision	【名】先見の明	SECTION 16
+make good	【動】(社会的・経済的に)成功する	SECTION 16
+in the end	【副】(過程はどうであれ)最後には	SECTION 16
+keep[bear] ～ in mind	【動】～を覚えておく	SECTION 16
+youth	【名】若さ	SECTION 16
+eternal	【形】永遠の	SECTION 16
+figure ～ out	【動】(よく考えた末に)～を理解する	SECTION 17
+on earth	【副】(疑問文中で)いったい	SECTION 17
+contempt (for～)	【名】(～に対する)軽蔑	SECTION 17
+can't help doing	【動】～せずにはいられない、ついつい～してしまう	SECTION 17
+laugh at	【動】～をばかにして笑う	SECTION 17
+keep on doing	【動】～し続ける	SECTION 17
+stupid	【形】ばかな	SECTION 17
+make a mistake	【動】間違える、間違いをする	SECTION 17
+last (1)	【形】[the-]最も可能性の低い	SECTION 17
+learn one's lesson	【動】教訓を得る、懲りる	SECTION 17
+to make matters worse	【副】さらに悪い事に	SECTION 17
+be conscious of	【動】～を自覚している	SECTION 17
+annoy	【動】～を不快な気分にさせる	SECTION 17
+since ～	【接】～なので	SECTION 17
+be in a hurry	【動】慌てている	SECTION 17
+put ～ on	【動】～を着る[体の一部につける]	SECTION 17
+glove	【名】(指が5本に分かれた)手袋	SECTION 17
+inside out	【副】裏返しに	SECTION 17
+by mistake	【副】誤って、間違えて	SECTION 17
+fat	【形】デブの、太った	SECTION 17
+clumsy	【形】不器用な、(動きが鈍くて)どじな	SECTION 17
+leap	【動】(前方に大きく)跳ぶ、飛び越える	SECTION 17
+shallow	【形】(水深・容器などが)浅い	SECTION 17
+stream	【名】小川	SECTION 17
+stumble	【動】つまずく	SECTION 17
+twist	【動】～を捻挫する	SECTION 17
+ankle	【名】足首	SECTION 17
+be scared (of～)	【動】(～が)怖い	SECTION 17
+height	【名】[-s]高所	SECTION 17
+coward	【名】臆病者、弱虫	SECTION 17
+passive	【形】(性格などが)消極的な	SECTION 17
+seldom (, if ever,)	【副】めったに～ない	SECTION 17
+express oneself	【動】自分を表現する	SECTION 17
+in public	【副】人前で	SECTION 17
+convince	【動】～(人)を納得させる[わからせる]	SECTION 17
+superstition	【名】迷信	SECTION 17
+irrational	【形】(考えなどが)根拠のない	SECTION 17
+tremble	【動】(体などが)震える	SECTION 17
+fear	【名】恐怖	SECTION 17
+at the thought of	【前】～のことを考えると	SECTION 17
+injection	【名】注射	SECTION 17
+lazy	【形】怠惰な	SECTION 17
+at heart	【副】(気持ちなどが)本当は	SECTION 17
+frequently	【副】頻繁に	SECTION 17
+neglect	【動】～(するべきこと)を怠る	SECTION 17
+duty	【名】(与えられた)仕事	SECTION 17
+at work	【形】職場にいて、仕事中の	SECTION 17
+at home	【形】家にいる	SECTION 17
+be absorbed in	【動】～に夢中になっている	SECTION 17
+silly	【形】ばかな、くだらない	SECTION 17
+soap opera	【名】(主婦を主なターゲットにした)連続メロドラマ	SECTION 17
+cartoon	【名】(テレビ・映画の)漫画	SECTION 17
+think ～ of A	【動】Aを～(程度)だと思う[評価する]	SECTION 17
+as a matter of fact	【副】実際には	SECTION 17
+boring	【形】退屈な、(人を)うんざりさせる	SECTION 17
+A occurs to ～	【動】A(考え)が～(人)に(ふと)浮かぶ	SECTION 18
+hold ～ back	【動】～(真実・感情など)を隠す	SECTION 18
+look A in the eye[face]	【動】(やましいことがない証として)Aの目を真っ直ぐ見る	SECTION 18
+patience	【名】忍耐(力)	SECTION 18
+give out	【動】(能力などが)尽きる	SECTION 18
+grab	【動】(～を)(勢いよく[素早く])つかむ	SECTION 18
+collar	【名】(服の)襟	SECTION 18
+swear at	【動】～をののしる	SECTION 18
+admit	【動】(仕方なく)～を(事実だと)認める	SECTION 18
+quarrel (with～)	【動】(～と)口げんかする	SECTION 18
+(every) now and then[again]	【副】たまに、時々	SECTION 18
+generally	【副】普通は	SECTION 18
+be on good terms with	【動】～と親しい間柄である	SECTION 18
+Do you mind if I do～?	【定】～してもいいですか？	SECTION 18
+stop by	【動】(～に)立ち寄る	SECTION 18
+Not at all	【定】(相手の問に答えて)いや全然	SECTION 18
+Be my guest.	【定】遠慮しないで	SECTION 18
+hold[hang] on	【動】(命令文で)(ちょっと)待ってて	SECTION 18
+I'll be right back	【定】(ここに)すぐ戻って来るよ	SECTION 18
+hang up	【動】(電話を)切る	SECTION 18
+put ～ up	【動】～(人)を泊める	SECTION 18
+for one thing	【副】(その理由の)一つには	SECTION 18
+dad	【名】お父さん	SECTION 18
+drop in (on)	【動】ふらっと(人に)立ち寄る	SECTION 18
+from time to time	【副】時々	SECTION 18
+stand [sit/lie] still	【動】じっと立つ[座る/横たわる]	SECTION 18
+pace	【動】(落ち着きなく)(～（狭い範囲)を）歩く	SECTION 18
+back and forth	【副】(2点間を)行ったり来たり	SECTION 18
+sidewalk	【名】{米}歩道	SECTION 18
+make up (with)	【動】(と)仲直りする	SECTION 18
+take A for granted	【動】Aを当然のことと思う	SECTION 18
+be through	【動】終わる	SECTION 18
+for good	【副】永遠[永久]]に	SECTION 18
+I mean it.	【定】本気で言っているんだよ	SECTION 18
+Come on.	【動】(相手の言ったことに対する軽い抗議のつもりで)おいおい	SECTION 18
+emotional	【形】感情的な	SECTION 18
+mean to do	【動】～するつもりである	SECTION 18
+hurt	【動】～の心を傷つける	SECTION 18
+talk ～ over	【動】～についてよく話し合う	SECTION 18
+betray	【動】～を裏切る	SECTION 18
+forgive ～ (for A)	【動】(Aのことで)～(人)を許してあげる	SECTION 18
+make it up to	【動】～(人)に(迷惑などの)埋め合わせをする	SECTION 18
+get even (with)	【動】(～(人)に)仕返しをする	SECTION 18
+confess	【動】(～(罪)を)(牧師に)告白する	SECTION 18
+sin	【名】(宗教上・道徳上の)罪、過ち	SECTION 18
+conceal	【動】～を隠す	SECTION 18
+keep one's word	【動】約束を守る	SECTION 18
+otherwise	【副】(命令・提案などの後で)そうしなければ	SECTION 18
+end up (doing～)	【動】(不本意ながら)(～する)結果になる	SECTION 18
+lose face	【動】評判を落とす	SECTION 18
+stick to	【動】～を(あくまでも)守る	SECTION 18
+moral	【形】道徳的[倫理的]な	SECTION 18
+principle	【名】主義、信条	SECTION 18
+honesty	【名】誠実、正直	SECTION 18
+pay off	【動】(努力などが)報われる	SECTION 18
+in the long run	【副】(長い目で見れば)最後には	SECTION 18
+cheer (～) up	【動】元気を出す	SECTION 18
+can't help	【動】～は仕方がない	SECTION 18
+do one's best	【動】最善[ベスト]を尽くす	SECTION 18
+dwell on	【動】～をくよくよ[長々と]考える[話す]	SECTION 18
+past	【名】[-s]過去	SECTION 18
+start over	【動】一からやり直す[出直す]	SECTION 18
+Please do me a favor.	【定】お願いがあるんだけど	SECTION 19
+give A a ride (to～)	【動】A(人)を(～まで)乗せて行ってあげる	SECTION 19
+square	【名】(四角い)広場	SECTION 19
+I wish I could.	【定】ちょっと無理かなあ	SECTION 19
+be tied up	【動】とても忙しい	SECTION 19
+as usual	【副】いつも通り	SECTION 19
+turn up	【動】(待っていた人が）現れる	SECTION 19
+on time	【副】時間通りに	SECTION 19
+punctual	【形】時間を遵守する	SECTION 19
+the other day	【副】この前	SECTION 19
+run out of	【動】～を使い果たす	SECTION 19
+gas	【動】{米}ガソリン	SECTION 19
+in the middle of	【前】～の真ん中に[で]	SECTION 19
+busy	【形】(通り・場所が)にぎやかな、交通量が多い	SECTION 19
+Interstate	【名】(州と州を結ぶ)幹線道路、インターステイト	SECTION 19
+ahead of	【副】(位置が)～の前方に	SECTION 19
+skid	【動】(車が)スリップする	SECTION 19
+turn (～) over	【動】ひっくり返る	SECTION 19
+scatter	【動】～をばらまく[散らす]	SECTION 19
+load	【名】(運ばれる)積み荷	SECTION 19
+recall	【動】～を思い出す	SECTION 19
+collision	【名】(移動するもの同士の)衝突	SECTION 19
+avoid	【動】～を避ける	SECTION 19
+sheer	【形】全くの	SECTION 19
+luck	【名】幸運	SECTION 19
+in case of	【前】～の場合には[際には]	SECTION 19
+emergency	【名】緊急事態	SECTION 19
+get in touch (with ～)	【動】(～と)連絡を取る	SECTION 19
+agent	【名】代理人	SECTION 19
+right away	【副】すぐに、ただちに	SECTION 19
+head	【動】向かう	SECTION 19
+get [be] lost	【動】(道に)迷う[迷っている]	SECTION 19
+wrong	【形】間違った	SECTION 19
+direction	【名】方向	SECTION 19
+pull over	【動】(車を)路肩に寄せて止める	SECTION 19
+rusty	【形】さびた	SECTION 19
+break down	【動】(機械などが)故障する	SECTION 19
+obstruct	【動】～の進路を妨げる	SECTION 19
+intersection	【名】{米}交差点	SECTION 19
+fine (1)	【形】(粒などが)細かい	SECTION 19
+scratch	【名】(先が尖ったものでの)引っかき傷	SECTION 19
+dent	【名】(衝撃を受けてできた小さな)へこみ	SECTION 19
+surface	【名】表面	SECTION 19
+it's no use[good] doing	【定】～しても無駄だ	SECTION 19
+polish	【動】(柔らかい布などで)～を磨く	SECTION 19
+get[be] stuck	【動】(物が)動かなくなる[動かない]、はまる[はまっている]	SECTION 19
+traffic	【名】交通	SECTION 19
+traffic jam	【名】交通渋滞	SECTION 19
+chill out	【動】冷静になる	SECTION 19
+take a shortcut	【動】近道をする	SECTION 19
+get to	【動】～につく	SECTION 19
+in time	【副】間に合って、予定時刻までに	SECTION 19
+get a flat tire	【動】タイヤがパンクする	SECTION 19
+give[lend] ～ a hand	【動】～を手助けする	SECTION 19
+I'd be glad to.	【定】ええ、喜んで	SECTION 19
+ambulance	【名】救急車	SECTION 19
+out of control	【形】(機械などが)制御がきかない	SECTION 19
+come close to ～ing	【動】危うく～しそうになる	SECTION 19
+run ～ over	【動】(車などが)～をひく	SECTION 19
+pedestrian	【名】歩行者	SECTION 19
+contend	【動】[-that-]～だと力説する	SECTION 20
+primitive	【形】原始的な	SECTION 20
+life	【名】(集合的に)生物	SECTION 20
+exist	【動】(空想や噂ではなく)実在する、存在する	SECTION 20
+Mars	【名】火星	SECTION 20
+crew	【名】乗組員[乗務員](全体)	SECTION 20
+be busy doing	【動】忙しく～している、～するのに忙しい	SECTION 20
+prepare for	【動】～のための準備をする	SECTION 20
+voyage	【名】航海	SECTION 20
+outer space	【名】(大気圏外の)宇宙(空間)	SECTION 20
+space	【名】宇宙	SECTION 20
+conduct	【動】～(調査など)を実施する	SECTION 20
+a series of	【形】一連の～	SECTION 20
+experiment	【名】（科学的な)実験	SECTION 20
+gravity	【名】重力	SECTION 20
+astronomer	【名】天文学者	SECTION 20
+assume	【動】[-(that)-](確証がないが)～だと考える	SECTION 20
+universe	【名】[the-]宇宙	SECTION 20
+expand	【動】膨張する	SECTION 20
+infinitely	【副】無限に	SECTION 20
+astronaut	【名】宇宙飛行士	SECTION 20
+greet	【動】～に挨拶する、～を迎える	SECTION 20
+spontaneous	【形】(行動・感情などが)自然に生じる	SECTION 20
+applause	【名】拍手、称賛	SECTION 20
+fund	【名】基金	SECTION 20
+set ～ up	【動】～(委員会・組織など)を設立[設置]する	SECTION 20
+with a view to doing	【前】(将来)～するつもりで	SECTION 20
+preserve	【動】～を(現状のまま)保存[保護]する	SECTION 20
+endangered	【形】(動植物などが)絶滅の危機に瀕した	SECTION 20
+planet	【名】[the [our] -]地球	SECTION 20
+massive	【形】極めて大きい	SECTION 20
+flood	【名】洪水	SECTION 20
+paralyze	【動】～を麻痺させる	SECTION 20
+local	【形】現地の	SECTION 20
+transportation	【名】交通[輸送]機関	SECTION 20
+network	【名】～網	SECTION 20
+equator	【名】[the-]赤道	SECTION 20
+divide A into B	【動】AをBに分ける	SECTION 20
+globe	【名】[the-]地球	SECTION 20
+hemisphere	【名】半球(体)	SECTION 20
+cruel	【形】残酷な	SECTION 20
+trap	【名】～(動物)を罠で捕らえる	SECTION 20
+fur	【名】毛皮製品	SECTION 20
+organization	【名】団体	SECTION 20
+principal	【形】最も重要な、主要な	SECTION 20
+play a ～ role[part] in A	【動】Aで～な役割を果たす	SECTION 20
+wildlife	【名】[集合的に]野生動物[動物・植物]	SECTION 20
+conservation	【名】保存、保護	SECTION 20
+fragile	【形】(ものが)壊れやすい、(精神的・肉体的に)弱い	SECTION 20
+species	【名】(生物の)種	SECTION 20
+be on the verge of	【動】～の寸前である	SECTION 20
+extinction	【名】(生物などの)絶滅	SECTION 20
+prolonged	【形】長引く	SECTION 20
+drought	【名】干ばつ	SECTION 20
+severe	【形】(被害などが)ひどい	SECTION 20
+do[cause] ～ damage to A	【動】Aに～(程度)の損害[被害]を与える	SECTION 20
+crop	【名】収穫(量)	SECTION 20
+tropical rain forest	【名】熱帯雨林	SECTION 20
+forest	【名】森林	SECTION 20
+disappear	【動】消える	SECTION 20
+on a ～ scale	【副】～の規模	SECTION 20
+in part	【副】一部は	SECTION 20
+due to	【前】～が原因で	SECTION 20
+acid rain	【名】酸性雨	SECTION 20
+it is said that	【定】～だと言われている	SECTION 20
+global warming	【名】地球温暖化	SECTION 20
+directly	【副】(関係が)直接	SECTION 20
+relate A to [with] B	【動】AをBに[と]関連づける	SECTION 20
+carbon dioxide	【名】二酸化炭素	SECTION 20
+emission	【名】(ガス・熱などの)排出	SECTION 20
+destruction	【名】破壊	SECTION 20
+ozone	【名】オゾン	SECTION 20
+layer	【名】層	SECTION 20
+affect	【動】～に影響を及ぼす	SECTION 20
+environment	【名】[the-](自然)環境	SECTION 20
+committee	【名】委員会	SECTION 20
+call on A to do	【動】Aに～(援助など)するように求める	SECTION 20
+side by side	【副】協力し合って	SECTION 20
+curb	【動】～を抑制する	SECTION 20
+pollution	【名】公害、汚染	SECTION 20
+satellite	【名】人工衛星	SECTION 20
+launch	【動】～(ロケットなど)を発射する	SECTION 20
+orbit	【名】(惑星などの)軌道	SECTION 20
+monitor	【動】～(の動向[反応])を(常に)監視する	SECTION 20
+melt	【動】(氷などが)溶ける	SECTION 20
+glacier	【名】氷河	SECTION 20
+ecologist	【名】生態学者	SECTION 21
+warn	【動】(～(人)に)警告する	SECTION 21
+time and (time) again	【副】(しつこく)何度も何度も、繰り返し	SECTION 21
+petroleum	【名】石油	SECTION 21
+not only A but (also) B	【定】AだけでなくBも	SECTION 21
+blessing	【名】天の恵み	SECTION 21
+curse	【名】災いのもと	SECTION 21
+continent	【名】大陸	SECTION 21
+be abundant in	【動】～が豊富である	SECTION 21
+fossil	【名】化石	SECTION 21
+fossil fuel	【名】化石燃料	SECTION 21
+region	【名】地方、地域	SECTION 21
+relatively	【副】比較的	SECTION 21
+be rich in	【動】～が豊富である	SECTION 21
+mineral	【形】鉱物の	SECTION 21
+resource	【名】[通例-s]資源	SECTION 21
+wheat	【名】小麦	SECTION 21
+account for	【動】～(割合)を占める	SECTION 21
+approximately	【副】ほぼ、およそ	SECTION 21
+two-thirds	【名】3分の2	SECTION 21
+agricultural	【形】農業の	SECTION 21
+production	【名】生産高、生産量	SECTION 21
+fertile	【形】肥沃な	SECTION 21
+soil	【名】土、土壌	SECTION 21
+be indispensable for[to]	【動】～に不可欠である	SECTION 21
+harvest	【名】収穫高[量]	SECTION 21
+humid	【形】湿度が高い	SECTION 21
+climate	【名】気候	SECTION 21
+be characteristic of	【動】～の特徴である	SECTION 21
+peninsula	【名】半島	SECTION 21
+active	【形】活動している	SECTION 21
+volcano	【名】火山	SECTION 21
+erupt	【動】噴火する	SECTION 21
+regular	【形】定期的な	SECTION 21
+at ～ intervals	【副】～の間隔で	SECTION 21
+canal	【名】運河	SECTION 21
+connect A with[to] B	【動】AとBをつなぐ[結ぶ]	SECTION 21
+Atlantic	【名】[the -]大西洋	SECTION 21
+Pacific	【名】[the -]太平洋	SECTION 21
+geographic(al)	【形】地理学上の、地理的な	SECTION 21
+feature	【名】特徴、特色	SECTION 21
+be similar to	【動】～に似ている	SECTION 21
+that of	【代】～のそれ	SECTION 21
+prefecture	【名】(日本・フランスなどの)県、府	SECTION 21
+more often than not	【副】たいてい	SECTION 21
+famine	【名】飢饉	SECTION 21
+be accompanied by	【動】～(物事)が付随して起こる	SECTION 21
+plague	【名】疫病	SECTION 21
+devastating	【形】壊滅的な	SECTION 21
+earthquake	【名】地震	SECTION 21
+hit	【動】(地震・台風などが)～を襲う	SECTION 21
+state	【名】(米国などの)州	SECTION 21
+capital	【名】首都	SECTION 21
+resident	【名】住民	SECTION 21
+homeless	【形】家のない	SECTION 21
+watch[look] out (for ～)	【動】(～に)気をつけろ	SECTION 21
+ceiling	【名】天井	SECTION 21
+give way	【動】崩れ落ちる	SECTION 21
+weather	【名】天気	SECTION 21
+forecast	【名】予報	SECTION 21
+typhoon	【名】台風	SECTION 21
+be likely to do	【動】～しそうだ	SECTION 21
+accelerate	【動】加速する	SECTION 21
+approach	【動】～に近づく	SECTION 21
+coast	【名】沿岸(地区)	SECTION 21
+it's up in the air	【定】(どうなるかが)決まっていない	SECTION 21
+call ～ off	【動】～を中止する	SECTION 21
+So what?	【定】(不愉快・不関心を表して)それが何だって言うんだ？	SECTION 21
+make no difference (to ～)	【動】(～にとっては)どちらでも同じ	SECTION 21
+foggy	【形】霧が濃い	SECTION 21
+It sure is.	【定】(返答で)全く、本当だ	SECTION 21
+chances are (that) ～	【定】たぶん～だ	SECTION 21
+clear up	【動】(天気が)よくなる、晴れる	SECTION 21
+later on	【副】この[その]後に	SECTION 21
+for the most part	【副】大部分は、ほとんど、たいてい	SECTION 22
+modernization	【名】近代化	SECTION 22
+identify A with B	【動】AをBと同じものだと考える	SECTION 22
+westernization	【名】西欧化	SECTION 22
+urban	【形】都市の、都会の	SECTION 22
+culture	【名】文化	SECTION 22
+appear (to be)	【動】～のように見える	SECTION 22
+attractive	【形】魅力的な	SECTION 22
+in particular	【副】とりわけ	SECTION 22
+A stands for	【動】Aは～の略[頭文字]である	SECTION 22
+artificial	【形】人工の	SECTION 22
+intelligence	【名】知能	SECTION 22
+household	【名】(形容詞的に)家庭の～	SECTION 22
+appliance	【名】電化製品	SECTION 22
+convenient	【形】(ものが)便利な	SECTION 22
+day by day	【副】日々、日に日に	SECTION 22
+income	【名】収入	SECTION 22
+adequate	【形】(ある目的には)十分な	SECTION 22
+provide for	【動】～(家庭)を養う	SECTION 22
+family of four	【名】4人家族	SECTION 22
+make the best of	【動】～(よくない状況)の中で何とかやっていく	SECTION 22
+popularity	【名】人気	SECTION 22
+website	【名】ホームページ、ウェブサイト	SECTION 22
+depend on	【動】～次第である	SECTION 22
+content (2)	【名】(形式・表向きに対して)内容、中身	SECTION 22
+You've got to do	【動】～しなきゃ	SECTION 22
+keep up with	【動】～に(遅れずに)ついて行く	SECTION 22
+once～	【接】いったん～してしまえば	SECTION 22
+fall behind (～)	【動】(～に)遅れを取る	SECTION 22
+catch up (with ～)	【動】(～に)追い付く	SECTION 22
+technology	【名】(科学)技術	SECTION 22
+rapidly	【副】急速に	SECTION 22
+advance	【動】進歩する	SECTION 22
+tough	【形】(対処が)難しい	SECTION 22
+keep pace with	【動】～(速い変化など)に遅れずについていく	SECTION 22
+more and more	【形】ますます多くの	SECTION 22
+rush	【動】焦る、焦ってする	SECTION 22
+make use of	【動】～を利用[活用]する	SECTION 22
+interactive	【形】双方向性の	SECTION 22
+nature	【名】性質、自然	SECTION 22
+medium	【名】媒体	SECTION 22
+innovation	【名】(技術などの)革新(をもたらすこと)	SECTION 22
+have (～) to do with A	【動】Aと(～程度の)関係がある	SECTION 22
+ability	【名】能力	SECTION 22
+notice	【動】(～に)気付く	SECTION 22
+unusual	【形】普通ではない、まれな	SECTION 22
+phenomenon(複：phenomena)	【名】現象	SECTION 22
+a bunch of	【形】たくさんの	SECTION 22
+imitate	【動】～の真似をする	SECTION 22
+excellent	【形】優れた、すばらしい	SECTION 22
+method	【名】(一般的に確立された)方法	SECTION 22
+desolate	【形】(場所が)荒涼とした	SECTION 22
+valley	【名】山間の谷、盆地	SECTION 22
+transform A (into B)	【動】Aを(Bへと)一変させる	SECTION 22
+thriving	【形】(事業が)繁栄している	SECTION 22
+hub	【名】中心(地)、中核	SECTION 22
+plenty of	【形】(余るくらい)たくさんの	SECTION 22
+room	【名】余地、余裕	SECTION 22
+improvement	【名】改良、改善	SECTION 22
+invention	【名】発明品	SECTION 22
+be superior to	【動】～よりも優れている	SECTION 22
+conventional	【形】従来の	SECTION 22
+equipment	【名】(集合的に)機器、用具	SECTION 22
+in ～ respect	【副】～の点に関して	SECTION 22
+strength	【名】(人・物の)長所、強み	SECTION 22
+firm (1)	【名】会社、企業、事務所	SECTION 22
+attribute A to B	【動】AはBに起因する[AはBがもたらしたもの]と考える	SECTION 22
+unique	【形】唯一の、他にはない	SECTION 22
+～-oriented	【形】～志向の	SECTION 22
+strategy	【名】戦略	SECTION 22
+integrate A (into B)	【動】A(機能など)を(Bに)統合させる	SECTION 22
+range	【名】範囲	SECTION 22
+function	【名】(機械などの)機能	SECTION 22
+cool	【形】スゴイ	SECTION 22
+gadget	【名】(特殊な)機器	SECTION 22
+catch on (to ～)	【動】流行る、人気を博す	SECTION 22
+(from) coast to coast	【副】全米で	SECTION 22
+tool	【名】道具	SECTION 22
+come in handy	【動】(いざという時に)役に立つ	SECTION 22
+(close) at hand	【副】【形】(時間・空間的に)すぐ近くに[の]	SECTION 22
+in general	【副】一般的に	SECTION 22
+consumer	【名】消費者	SECTION 22
+prefer A to B	【動】BよりもAのほうを選ぶ[好む]	SECTION 22
+quantity	【名】量	SECTION 22
+quality	【名】質	SECTION 22
+the other way around	【副】【形】正反対に[な]	SECTION 22
+obviously	【副】明らかに	SECTION 23
+advertisement	【名】広告	SECTION 23
+be aimed at	【動】(活動などが)～を狙いとしてる	SECTION 23
+teenager	【名】10代の若者	SECTION 23
+factory	【名】工場	SECTION 23
+under construction	【形】建設中の	SECTION 23
+assemble	【動】～を組み立てる	SECTION 23
+VCR	【名】ビデオデッキ	SECTION 23
+unit	【名】ユニット、(構成)単位	SECTION 23
+per	【前】～当たり	SECTION 23
+efficient	【形】効率的な	SECTION 23
+machinery	【名】(集合的に)機械類	SECTION 23
+replace	【動】～に取って代わる	SECTION 23
+manual	【形】(作業などが)手を使う、肉体的な	SECTION 23
+labor	【名】労働	SECTION 23
+in those days	【副】当時は	SECTION 23
+gigantic	【形】巨大な	SECTION 23
+corporation	【名】大企業	SECTION 23
+virtual	【形】事実上の	SECTION 23
+monopoly	【名】独占	SECTION 23
+internal	【形】国内の	SECTION 23
+commerce	【名】商取引、商業	SECTION 23
+with A B	【構】AがBなので	SECTION 23
+restriction	【名】[-通例s](設けられた)制限	SECTION 23
+remove	【動】～を取り除く	SECTION 23
+enterprise	【名】企業	SECTION 23
+come into being	【動】誕生する	SECTION 23
+as a result of	【前】～の結果	SECTION 23
+ridiculous	【形】ばかげた	SECTION 23
+venture	【名】(新規)事業	SECTION 23
+be in danger (of ～)	【動】(～という)危険な状態にある	SECTION 23
+go bankrupt	【動】倒産[破産]する	SECTION 23
+compared to[with]	【前】～と比べると	SECTION 23
+previous	【形】(時間・順序的に)前の～、前回の～	SECTION 23
+look up	【動】(景気などが)上向く	SECTION 23
+in terms of	【前】～の点で(は)	SECTION 23
+make a profit	【動】儲ける、利益を得る	SECTION 23
+transfer ～ (from A) to B	【動】～を(Aから)Bに転任[転籍]させる	SECTION 23
+overseas	【形】海外の	SECTION 23
+branch	【動】支店	SECTION 23
+miss	【動】～がいなくて寂しい	SECTION 23
+drop～a line	【動】～に(ちょっとした)手紙を書く	SECTION 23
+be away (from ～)	【動】(外出で)(～に)いない	SECTION 23
+on business	【副】仕事で	SECTION 23
+give birth to ～	【動】～を出産する	SECTION 23
+apparently	【副】どうやら[見たところ]～のようだ	SECTION 24
+be willing to do	【動】～してもいいと思う	SECTION 24
+take ～ on	【動】～(仕事・責任など)を(さらに)引き受ける	SECTION 24
+task	【名】(課せられた大変な)任務、仕事	SECTION 24
+add to	【動】(行為が負担など)～を増やす[大きくする]	SECTION 24
+burden	【名】負担	SECTION 24
+intend to do	【動】～するつもりである	SECTION 24
+take ～ out	【動】～を(外食などに)連れて行く、～(異性)とデートする	SECTION 24
+work overtime	【動】残業する	SECTION 24
+estimate ～ (at A)	【動】～を(Aぐらいだと)見積もる	SECTION 24
+loss	【名】損失	SECTION 24
+by ～ at the latest	【副】遅くとも～までに	SECTION 24
+manage	【動】(～を)何とかする	SECTION 24
+somehow (or other)	【副】(あれこれ)何とかして	SECTION 24
+count on	【動】～に頼る	SECTION 24
+see to	【動】必ず[きちんと]～する	SECTION 24
+appreciate	【動】～に感謝する	SECTION 24
+Don't mention it.	【定】どういたしまして、いいんですよ	SECTION 24
+pretend	【動】(～の)ふりをする	SECTION 24
+enthusiastic	【形】熱心な	SECTION 24
+boss	【名】上司	SECTION 24
+be around	【動】(自分の)近く[そば]にいる	SECTION 24
+get promoted	【動】昇進する	SECTION 24
+at the expense of	【前】～を犠牲にして	SECTION 24
+colleague	【名】(仕事の)同僚	SECTION 24
+be ashamed of	【動】～を恥ずかしく思う	SECTION 24
+recession	【名】景気後退	SECTION 24
+set in	【動】(好ましくないことが)始まる	SECTION 24
+temporary	【形】一時的な	SECTION 24
+temporary employee	【名】臨時社員[短期契約社員]	SECTION 24
+lay ～ off	【動】～を(一時的に)解雇する	SECTION 24
+one after another	【副】次々と	SECTION 24
+nowadays	【副】(昔と違って)今日では	SECTION 24
+be out of work	【動】失業中である	SECTION 24
+against one's will	【副】自らの意思ではなく	SECTION 24
+be responsible for	【動】～の責任を負うべきである	SECTION 24
+pessimistic	【形】悲観的な	SECTION 24
+be worried about	【動】～を心配している	SECTION 24
+be concerned about	【動】～を心配している	SECTION 24
+white-collar	【形】オフィス労働の	SECTION 24
+be confronted with	【動】～(大変なこと)に直面する[している]	SECTION 24
+hardship	【名】(経済的)困窮、苦難	SECTION 24
+authority(通例 the authorities)	【名】当局	SECTION 24
+strive	【動】賢明に努力する	SECTION 24
+in vain	【副】無駄に	SECTION 24
+stabilize	【動】～を安定させる	SECTION 24
+currency	【名】通貨	SECTION 24
+come to[reach] the conclusion (that)～	【動】～という結論に至る	SECTION 24
+nothing is more A than doing	【構】～するよりもAなことはない	SECTION 24
+urgent	【形】緊急の	SECTION 24
+reduce	【動】～を減らす	SECTION 24
+huge	【形】巨大な	SECTION 24
+deficit	【名】赤字	SECTION 24
+questionnaire	【名】アンケート用紙	SECTION 25
+distribute	【動】～を配る[配布する]	SECTION 25
+at random	【副】無作為に	SECTION 25
+All you have to do is (to) do ～	【定】～するだけでいい	SECTION 25
+fill ～ in[out]	【動】～(用紙)に必要事項を記入する	SECTION 25
+blank	【名】余白、空欄	SECTION 25
+print	【動】(～を)ブロック体[楷書]ではっきり書く	SECTION 25
+in black ink	【副】黒インクで	SECTION 25
+in addition to	【前】～に加えて	SECTION 25
+discount	【名】割引	SECTION 25
+pick ～ out	【動】～を選ぶ	SECTION 25
+optional	【形】自由に選べる	SECTION 25
+excursion	【名】日帰りツアー	SECTION 25
+for free	【副】無料で	SECTION 25
+round-trip	【系】{米}往復の	SECTION 25
+fare	【名】運賃、(乗り物の)料金	SECTION 25
+destination	【名】目的地	SECTION 25
+as follows	【形】【副】以下の通り(の)	SECTION 25
+Don't forget to do	【定】～するのを忘れないで	SECTION 25
+confirm	【動】～を確認する	SECTION 25
+reservation	【名】予約	SECTION 25
+in advance	【副】事前に	SECTION 25
+Be sure to do	【定】必ず～しなさい	SECTION 25
+check in	【動】(空港で)搭乗手続きをする	SECTION 25
+at least	【副】(数量が)少なくとも	SECTION 25
+prior to	【前】～より前に	SECTION 25
+departure	【名】出発	SECTION 25
+attach ～ (to A)	【動】(Aに）～を取り付ける	SECTION 25
+tag	【名】(紐などで付ける)札	SECTION 25
+baggage	【名】[集合的に](旅行時の)荷物(全部)	SECTION 25
+come off	【動】(～から)(自然に)外れる[取れる]	SECTION 25
+on (the[an]) average	【副】平均すると	SECTION 25
+package	【名】{米}小包	SECTION 25
+weigh	【動】～の重さがある	SECTION 25
+pound	【名】(重量単位)ポンド	SECTION 25
+plastic	【形】ビニール製の	SECTION 25
+garbage	【名】ゴミ	SECTION 25
+bag	【名】袋、カバン	SECTION 25
+be free of[from] ～	【動】～(いやなもの)とは無縁である	SECTION 25
+hazardous	【形】(化学物質などが)(人体に)有害な	SECTION 25
+chemical	【名】化学物質[薬品]	SECTION 25
+flashlight	【名】{米}懐中電灯	SECTION 25
+dim	【形】(明るさが)薄暗い	SECTION 25
+battery	【名】(乾)電池	SECTION 25
+How often ～?	【定】～はどれくらいの頻度ですか？	SECTION 26
+shuttle	【名】(飛行機・バスなどの)往復[シャトル]便	SECTION 26
+downtown	【形】{米}(街の)中心地の～、～の市街	SECTION 26
+motel	【名】モーテル	SECTION 26
+accommodate	【動】(施設などが)～(人数)分の十分なスペースがある	SECTION 26
+as ～ as…（～=much/many/recently/high/farなど）	【副】～もの…	SECTION 26
+suite	【名】スイートルーム	SECTION 26
+three times larger than A	【定】Aよりも3倍大きい	SECTION 26
+condominium	【名】{米}(分譲)マンション[共同住宅]	SECTION 26
+litter	【動】(～に)ゴミを投げ捨てる	SECTION 26
+facility	【名】施設	SECTION 26
+be subject to	【動】～を受ける場合がある	SECTION 26
+maximum	【形】最大[最高]の	SECTION 26
+fine (2)	【名】罰金	SECTION 26
+be packed	【動】(店などが)込んでいる	SECTION 26
+had better do	【動】～した方がいい	SECTION 26
+make a reservation	【動】予約を取る[する]	SECTION 26
+beforehand	【副】事前に	SECTION 26
+interrupt	【動】(～を)中断する	SECTION 26
+meal	【名】食事	SECTION 26
+I'd like (to have) a word with you.	【定】相談したいことがあるんだけど	SECTION 26
+in private	【副】内密に	SECTION 26
+get back to	【動】(後で自分の方から)～(人)に連絡し直す[会いに行く]	SECTION 26
+cook	【名】料理人	SECTION 26
+be astonished at[by]	【動】～にたいへん驚く	SECTION 26
+incredible	【形】信じられない	SECTION 26
+appetite	【名】食欲	SECTION 26
+What's going on?	【定】何が起こっている[行われている]んだい？	SECTION 26
+curious	【形】(人が)好奇心旺盛な、知りたがっている	SECTION 26
+I have no idea	【定】(考えたけれど)よくわかりません	SECTION 26
+excited	【形】(人が)興奮した	SECTION 26
+fan (1)	【名】(有名人などの)ファン	SECTION 26
+hang around	【動】(～(場所))ぶらぶらする、(集団が)(～(場所)に)群がる[たむろする]	SECTION 26
+rear (1)	【形】裏の	SECTION 26
+exit	【名】出口	SECTION 26
+catch[get/have] a glimpse of	【動】～を一瞬目にする	SECTION 26
+on doing	【前】～するとすぐに	SECTION 26
+encounter	【動】～に(偶然)出会う	SECTION 26
+celebrity	【名】有名人	SECTION 26
+ask for	【動】～を求める[ねだる]	SECTION 26
+autograph	【名】(有名人などの)サイン	SECTION 26
+abroad	【副】海外に[で]	SECTION 27
+suffer from	【動】～(病気など)で苦しむ	SECTION 27
+jet lag	【名】時差ボケ	SECTION 27
+diarrhea	【名】下痢	SECTION 27
+sort[kind] of	【副】ちょっと、何か	SECTION 27
+dizzy	【形】目まいがする	SECTION 27
+feel like doing	【動】～したいな、～したい気がする	SECTION 27
+throw up	【動】吐く	SECTION 27
+pale	【形】顔色が悪い、(血の気が引いて)青白い	SECTION 27
+aspirin	【名】鎮痛剤	SECTION 27
+cure A of B	【動】A(人)のB(病気)を治す	SECTION 27
+ache	【名】～痛	SECTION 27
+in no time	【副】(驚くほど)すぐに	SECTION 27
+I'm afraid (that) ～	【定】もしかしたら～かなあ	SECTION 27
+come down with	【動】～(風邪など)にかかる、～で体調を崩す	SECTION 27
+take ～ off	【動】～(日数)の休みを取る	SECTION 27
+ingredient	【名】(食料などの)成分、原料	SECTION 27
+beverage	【名】(水以外の)飲み物	SECTION 27
+harmful (to ～)	【形】(～に対して)有害な	SECTION 27
+especially	【副】特に、とりわけ	SECTION 27
+pregnant	【形】妊娠している	SECTION 27
+nutrition	【名】栄養摂取	SECTION 27
+vital	【形】極めて重要な	SECTION 27
+infant	【名】乳児、幼児	SECTION 27
+growth	【名】成長、発展	SECTION 27
+moderate	【形】(程度・量が)適度な	SECTION 27
+exercise	【名】(体の)運動	SECTION 27
+stimulate	【動】～を刺激する	SECTION 27
+circulation	【名】循環	SECTION 27
+blood	【名】血	SECTION 27
+physician	【名】医師、内科医	SECTION 27
+advise A to do	【動】Aに～するよう助言する[忠告する]	SECTION 27
+refrain from	【動】～を控える	SECTION 27
+alcohol	【名】酒、アルコール	SECTION 27
+for the time being	【副】当分の間は	SECTION 27
+do	【助】本当に(～である)、ぜひ(～する)	SECTION 27
+get into shape	【動】体調を良くする	SECTION 27
+lose weight	【動】体重が減る	SECTION 27
+go doing	【動】(自分の意思で)～しに行く、～を楽しむ	SECTION 27
+catch a cold	【動】風邪をひく	SECTION 27
+nasty	【形】(病気・けがなどが)ひどい	SECTION 27
+stay up late	【動】(遅くまで)夜更かしする	SECTION 27
+surgeon	【名】外科医	SECTION 27
+persuade A to do	【動】A(人)を説得して～させる	SECTION 27
+undergo	【動】～(苦痛を伴うこと)を経験する[受ける]	SECTION 27
+organ	【名】(動植物の)器官、臓器	SECTION 27
+transplant	【名】移植(手術[治療])	SECTION 27
+bedridden	【形】(病気・高齢で)寝たきりの	SECTION 27
+take turns (doing ～)	【動】(～を)交代でする	SECTION 27
+look after	【動】～の面倒を見る	SECTION 27
+hypothesis	【名】仮説	SECTION 27
+excessive	【形】過度の	SECTION 27
+amount	【名】量	SECTION 27
+junk food	【名】ジャンクフード	SECTION 27
+contribute to	【動】～の一因となる	SECTION 27
+mortality	【名】(避けられない)死ぬべき運命	SECTION 27
+government	【名】政府	SECTION 27
+appropriate	【形】(行為などが)ふさわしい、適切な	SECTION 27
+take (～) measures	【動】(～な)手段を取る	SECTION 27
+prevent A from doing	【動】Aに～させない、Aが～することを(事前に)防ぐ	SECTION 27
+infection	【名】(病気・ウイルスの)伝染、感染	SECTION 27
+spread	【動】(病気・情報などが)広がる	SECTION 27
+minister	【名】大臣	SECTION 27
+be obliged to do	【動】(ルール・義務なので)～せざるを得ない、～を余儀なくされる	SECTION 27
+resign (from～)	【動】(～を)辞職する[辞任する]	SECTION 27
+cabinet	【名】内閣	SECTION 27
+regard A as B	【動】AをBだと考える	SECTION 28
+current	【形】現在の	SECTION 28
+compulsory	【形】強制的な、義務の	SECTION 28
+education	【名】教育	SECTION 28
+obsolete	【形】時代遅れの	SECTION 28
+encourage A to do	【動】Aに～するように励ます	SECTION 28
+fulfill	【動】～を果たす[実現させる]	SECTION 28
+ambition	【名】(人が感心するぐらい)大きな目標、夢	SECTION 28
+make ～ come true	【動】～(夢・計画など)を実現させる	SECTION 28
+drop out	【動】(～を)退学する	SECTION 28
+make one's way	【動】(苦労して[少しずつ])進む	SECTION 28
+What do you do?	【定】普段は何をなさっているのですか？	SECTION 28
+college	【名】大学	SECTION 28
+freshman	【名】大学1年生	SECTION 28
+major	【名】(大学での)専攻科目	SECTION 28
+philosophy	【名】(学問の）哲学	SECTION 28
+tuition	【名】授業料	SECTION 28
+raise	【動】～(程度・料金など)を高くする	SECTION 28
+nearly	【副】ほとんど、ほぼ	SECTION 28
+percent	【名】(単位)パーセント	SECTION 28
+as of	【前】～(特定の日付)より[から]	SECTION 28
+be of two minds (whether A or B)	【動】(AとBの)どちらにしようか悩んでいる	SECTION 28
+apply for	【動】～(仕事・証明書など)を申し込む	SECTION 28
+scholarship	【名】奨学金	SECTION 28
+give it a try	【動】(あれこれ考えずに)やってみる	SECTION 28
+as soon as ～	【接】～するとすぐに	SECTION 28
+graduate (from～)	【動】(～(高校・大学)を)卒業する	SECTION 28
+take (～) over	【動】(～(もの)を)引き継ぐ	SECTION 28
+be cut out for	【動】～(職種)に向いている	SECTION 28
+military	【名】[the-]軍隊	SECTION 28
+because of	【前】～の理由で、～が原因で	SECTION 28
+rigid	【形】(規則などが)厳格な	SECTION 28
+discipline	【名】規律	SECTION 28
+be determined to do	【動】～すると決心[決意]している	SECTION 28
+make a living	【動】生計をたてる	SECTION 28
+playwright	【名】脚本家	SECTION 28
+at all costs	【副】どんな犠牲を払っても	SECTION 28
+grow up	【動】大人になる	SECTION 28
+learn to do	【動】～できるようになる[するようになる]	SECTION 28
+put ～ in perspective	【動】～を総合的な視野でとらえる	SECTION 28
+conformity	【名】体制・社会通念に従うこと	SECTION 28
+essential (for[to] ～)	【形】(～に)不可欠な、本質に関わる	SECTION 28
+element	【名】(基本的な)要素、元素	SECTION 28
+homogeneous	【形】均質な、同種のものだけで構成された	SECTION 28
+community	【名】(地域)社会	SECTION 28
+would rather do A (than do B)	【構】(選べるなら)(Bするより)むしろAしたい	SECTION 28
+go one's own way	【動】我が道を行く	SECTION 28
+toil away	【動】ひたすら[あくせく]働く	SECTION 28
+fit	【動】(～に)(ぴったり)合う[はまる]	SECTION 28
+mold	【名】(決まった)型	SECTION 28
+get (～) nowhere	【動】(行為などが)(～に)何の進歩[成果]ももたらさない	SECTION 28
+take after ～	【動】～(親など)に似ている	SECTION 28
+personality	【名】人柄、性格	SECTION 28
+I mean	【副】(より明確な理由を加えたい時に)だって、つまり	SECTION 28
+obstinate	【形】頑固な	SECTION 28
+be ～ by nature	【動】生まれつき～である	SECTION 28
+give in (to～)	【動】(～に)降参する[屈服する]	SECTION 28
+ripe	【形】(機が）熟した	SECTION 29
+bold	【形】大胆な	SECTION 29
+go for	【動】～を手に入れようと頑張る	SECTION 29
+stand by (～)	【動】～(困っている友達など)を見捨てない	SECTION 29
+stand up for	【動】～(人・権利)を守る、～のために立ち上がる	SECTION 29
+believe in	【動】～が正しいこと[大切なこと]だと信じる	SECTION 29
+yield (to～)	【動】(～に)屈する	SECTION 29
+threat	【名】脅威、脅迫	SECTION 29
+if only ～	【定】～でありさえすればいいのになあ	SECTION 29
+conquer	【動】～(困窮など)を克服する	SECTION 29
+weakness	【名】(性格・性質上の)弱点、短所	SECTION 29
+it's up to	【動】それは～(人)次第だ	SECTION 29
+make the most of	【動】～(有利な状況)を最大限利用する	SECTION 29
+rare (1)	【形】珍しい、めったにない	SECTION 29
+opportunity	【名】機会、チャンス	SECTION 29
+demonstrate	【動】～(事実など)をはっきり示す、～を実証する	SECTION 29
+talent (for～)	【名】(～の)才能	SECTION 29
+let ～ down	【動】～をがっかりさせる	SECTION 29
+have faith in	【動】～を信頼している	SECTION 29
+make it	【動】(人が困難を乗り越えて)成功する	SECTION 29
+spectator	【名】観客	SECTION 29
+move	【動】～を感動させる、～の涙を誘う	SECTION 29
+graceful	【動】(動きなどが)優雅な	SECTION 29
+performance	【名】演技、公演	SECTION 29
+receive	【動】～を受ける[受け取る]	SECTION 29
+architecture	【名】建築(学)	SECTION 29
+prestigious	【形】権威のある	SECTION 29
+award	【名】賞	SECTION 29
+in the face of	【前】～をものともせず	SECTION 29
+adversity	【名】逆境	SECTION 29
+accomplish	【動】～を成し遂げる	SECTION 29
+extraordinary	【形】並外れた	SECTION 29
+feat	【名】偉業	SECTION 29
+deserve	【動】～を受けるに値する	SECTION 29
+praise	【名】称賛(の言葉)	SECTION 29
+audience	【名】(集合的に)聴衆	SECTION 29
+impress	【動】～に感銘[感動]を与える	SECTION 29
+eloquent	【形】(話などが)説得力のある	SECTION 29
+lecture	【名】講義、講演	SECTION 29
+humble	【形】庶民の	SECTION 29
+background	【名】(人の)育ち、経歴	SECTION 29
+achieve	【動】～を成し遂げる	SECTION 29
+worldwide	【形】世界的な	SECTION 29
+fame	【名】名声	SECTION 29
+accumulate	【動】(長時間かけて)～をためる[蓄積する]	SECTION 29
+tremendous	【形】(驚くほど)大きな、莫大な	SECTION 29
+fortune	【名】財産	SECTION 29
+postwar	【形】戦後の	SECTION 29
+era	【名】時代	SECTION 29
+used to do	【助】かつて～だった	SECTION 29
+well off/well-off	【形】裕福な	SECTION 29
+generous	【形】気前のよい	SECTION 29
+live from hand to mouth	【動】その日暮らしをする	SECTION 29
+by no means	【副】決して～しない[ではない]	SECTION 30
+be satisfied with	【動】～に満足する	SECTION 30
+reward	【名】見返り、報酬	SECTION 30
+selfish	【形】自己中心的な	SECTION 30
+greedy	【形】欲の深い	SECTION 30
+owe A B/owe B to A	【動】A(人)にB(金額)の借りがある	SECTION 30
+altogether	【副】全部で	SECTION 30
+pay ～ back (A)	【動】～に(A(金額)を)返す	SECTION 30
+be hard up	【動】(一時的に)お金に困っている	SECTION 30
+There you go again!	【定】(あきれて)またそれだ、また始まったよ！	SECTION 30
+to one's surprise	【副】(文を修飾して)(～が)驚いたことに(だ[だった])	SECTION 30
+debt	【名】(多額の)借金	SECTION 30
+amount to	【動】(合計が)～に達する	SECTION 30
+considerable	【形】(数量・程度などが)かなりの	SECTION 30
+sum	【名】金額	SECTION 30
+cling to	【動】～にしがみつく	SECTION 30
+glory	【名】栄光、名誉	SECTION 30
+leave ～ behind	【動】～を置き去りにする	SECTION 30
+escape from	【動】～から逃げる	SECTION 30
+harsh	【形】(環境などが)厳しい	SECTION 30
+reality	【名】現実	SECTION 30
+adapt to	【動】～に順応する	SECTION 30
+prosperity	【名】(経済的)繁栄	SECTION 30
+last (2)	【動】続く	SECTION 30
+forever	【副】永遠に	SECTION 30
+in other words	【副】つまり	SECTION 30
+come to an end	【動】(長く続いてきたことが)終わる	SECTION 30
+one of these days	【副】いつかは、近いうちに	SECTION 30
+proper	【形】(常識的に見て)ふさわしい、適切な	SECTION 30
+qualification	【名】資格、能力	SECTION 30
+require	【動】～が必要である	SECTION 30
+position	【名】(社内の)ポスト、仕事	SECTION 30
+computer literacy	【名】コンピューターが使えること	SECTION 30
+be a must	【動】絶対条件である	SECTION 30
+enclose	【動】～を同封する	SECTION 30
+resume	【名】履歴書	SECTION 30
+envelope	【名】封筒	SECTION 30
+submit ～ (to A)	【動】～(案・申請書など)を(Aに)提出する	SECTION 30
+personnel	【名】社員(全体)、職員(全体)	SECTION 30
+department	【名】(企業・大学などの)部	SECTION 30
+optimistic	【形】楽観的な	SECTION 30
+work out	【動】うまくいく	SECTION 30
+at best	【副】(程度が)よくても、せいぜい	SECTION 30
+fifty-fifty	【形】(可能性などが)五分五分の	SECTION 30
+registration	【名】登録	SECTION 30
+form	【名】(定型の)用紙	SECTION 30
+obtain	【動】～を入手する	SECTION 30
+free of charge	【副】無料で	SECTION 30
+give ～ a call	【動】～に電話する	SECTION 30
+participate in	【動】～に参加する	SECTION 30
+workshop	【名】(～)教室、講習会	SECTION 30
+further	【形】なお一層の	SECTION 30
+inquiry	【名】問い合わせ、質問	SECTION 30
+feel free (to do)	【動】遠慮なくどうぞ	SECTION 30
+contact	【動】～に(電話・手紙などで)連絡を取る	SECTION 30
+toll-free	【形】フリーダイヤルで[の]	SECTION 30
+～-free	【尾】～ゼロの、非～の	SECTION 30
+How's it going?	【定】最近どう？調子はどうだい？	SECTION 31
+Couldn't be better.	【定】最高だよ	SECTION 31
+do well	【動】(仕事・試験などで)うまくいく	SECTION 31
+job	【名】仕事、職	SECTION 31
+interview	【名】(就職などの)面接	SECTION 31
+Good for you!	【定】よくやった、おめでとう	SECTION 31
+instruction	【名】[-s]指示、取扱説明書	SECTION 31
+trainee	【名】研究生	SECTION 31
+cannot make heads or tails of ～	【動】～が(何が何だか)さっぱりわからない	SECTION 31
+at one time	【副】同時に、一度に	SECTION 31
+be out of question	【動】無理だ	SECTION 31
+one by one	【副】一人一人、一つ一つ	SECTION 31
+disturb	【動】～の邪魔をする	SECTION 31
+Mind your own business	【定】おせっかいはやめろ	SECTION 31
+whisper	【動】(～と)ささやく	SECTION 31
+persist in	【動】しつこく～する	SECTION 31
+bother	【動】～を悩ませる[困らせる]	SECTION 31
+lose one's temper	【動】かっとなる	SECTION 31
+so A that B	【構】たいへんAなのでB	SECTION 31
+childish	【形】子供じみた	SECTION 31
+resist	【動】(～(欲求など)を)我慢する	SECTION 31
+temptation	【名】誘惑	SECTION 31
+make a fuss (about[over])	【動】(～のことで)騒ぎ立てる	SECTION 31
+go one's nerves	【動】～をいらいらさせる	SECTION 31
+shout	【動】(～と)叫ぶ	SECTION 31
+there's no point in doing	【定】～するのは無駄だ[意味がない]	SECTION 31
+talk back (to)	【動】(～に)口答えする	SECTION 31
+dictator	【名】独裁者、ワンマンな人	SECTION 31
+so to speak	【副】言ってみれば、例えて言えば	SECTION 31
+polite	【形】(人・言動が)礼儀正しい	SECTION 31
+in one's presence	【副】～のいる前で	SECTION 31
+actually	【副】実際には	SECTION 31
+talk about ～ behind one's back	【動】～の陰口を言う	SECTION 31
+despise	【動】～を軽蔑する[見下す]	SECTION 31
+on the contrary	【副】それどころか	SECTION 31
+look up to	【動】～を尊敬する	SECTION 31
+constant	【形】絶え間のない	SECTION 31
+insult	【名】侮辱	SECTION 31
+arouse	【動】～(怒り・関心など)を呼び起こす	SECTION 31
+anger	【名】怒り	SECTION 31
+be fed up (with)	【動】(～に)うんざりしている	SECTION 31
+shuffle	【動】～を仕分け[整理]する	SECTION 31
+pour	【動】～を注ぐ	SECTION 31
+make up one's mind (to do)	【動】(～すると)決心する	SECTION 31
+quit	【動】(～(仕事)を)辞める	SECTION 31
+in reality	【副】現実には、実際には	SECTION 31
+have difficulty (in) doing	【動】～することに苦労している	SECTION 31
+make ends meet	【動】(収入の範囲内で)何とかやりくりする	SECTION 31
+get by (on)	【動】(～(金額)で)何とか生活していく	SECTION 31
+female	【形】女性の	SECTION 31
+clerk	【名】事務員	SECTION 31
+A might[may] well do	【動】Aが～するのももっともだ	SECTION 31
+complain about	【動】～について不満[苦情]を言う	SECTION 31
+routine	【名】日常業務	SECTION 31
+not ～ at all	【副】全然～ない	SECTION 31
+challenging	【形】(困難だが)やりがいのある	SECTION 31
+thanks to	【前】～のおかげで	SECTION 31
+fundamental	【形】(変化などが)抜本的な	SECTION 31
+restructuring	【名】事業の再構築、(組織などの)構造改革	SECTION 31
+surplus	【名】(企業などの)黒字	SECTION 31
+swell	【動】(数量が)増大する	SECTION 31
+～-fold	【尾】～倍の[に]	SECTION 31
+think of A as B	【動】AをBだと考える[みなす]	SECTION 31
+loyalty	【名】忠誠	SECTION 31
+absurd	【形】ばかげた	SECTION 31
+notion	【名】(漠然とした[根拠のない])考え	SECTION 31
+commute	【動】(電車などで)通勤する	SECTION 31
+all the way from	【副】～(遠い所)からはるばる[わざわざ]	SECTION 31
+distant	【形】遠い	SECTION 31
+suburb	【名】郊外	SECTION 31
+be sick (and tired) of	【動】～には(ほとほと)うんざりだ	SECTION 31
+spend A doing	【動】A(時間)を～に費やす	SECTION 32
+rest	【名】[the-(of～)](～の)残りの部分	SECTION 32
+pursue	【動】～(人・理想など)を追いかける	SECTION 32
+ideal	【名】理想	SECTION 32
+retirement	【名】(定年)退職、引退	SECTION 32
+devote A to B	【動】A(時間・労力など)をBに捧げる	SECTION 32
+care for	【動】～の世話をする	SECTION 32
+orphan	【名】孤児	SECTION 32
+for the sake of	【前】～の(利益・保護の)ために	SECTION 32
+in need	【形】(生活に)困っている	SECTION 32
+cooperate	【動】協力する	SECTION 32
+collect	【動】～を集める[収集]する	SECTION 32
+donation	【名】寄付(金)	SECTION 32
+charity	【名】慈善団体	SECTION 32
+name A after B	【動】Aの名前をBから取る	SECTION 32
+give ～ away	【動】～をただであげる、～を寄付する	SECTION 32
+some	【副】約、およそ	SECTION 32
+billion	【名】10億	SECTION 32
+autobiography	【名】自叙伝	SECTION 32
+release	【動】～(新製品)を発売する	SECTION 32
+sell out/be sold out	【動】(商品・チケットなどが)完売する	SECTION 32
+refer to A as B	【動】AをBと呼ぶ	SECTION 32
+integrity	【形】高潔さ、誠実さ	SECTION 32
+run for	【動】～(官職)に立候補する	SECTION 32
+mayor	【名】市長、町長	SECTION 32
+candidate	【名】(立)候補者	SECTION 32
+be disappointed	【動】(人が)がっかりする	SECTION 32
+outcome	【名】(終わってみて初めてわかる)結果、結末	SECTION 32
+election	【名】選挙	SECTION 32
+municipal	【形】市[町]の	SECTION 32
+council	【名】議会	SECTION 32
+concentrate on	【動】～に(神経など)集中する	SECTION 32
+specific	【形】具体的な	SECTION 32
+issue	【名】(公の場で議論されるべき)問題(点)	SECTION 32
+it is the case that ～	【定】～ということは事実だ	SECTION 32
+live on	【動】～(収入など)で生活する	SECTION 32
+pension	【名】年金	SECTION 32
+force A to do	【動】Aに～するように強いる	SECTION 32
+lead a ～ life	【動】～な生活を送る	SECTION 32
+leave ～ out	【動】～を(全体から)除く	SECTION 32
+data	【名】データ	SECTION 32
+far from (being) ～	【定】～と言うほどに遠い	SECTION 32
+accurate	【形】正確な	SECTION 32
+tend to do	【動】～する傾向がある	SECTION 33
+associate A with B	【動】AからBを連想する	SECTION 33
+politician	【名】政治家	SECTION 33
+hypocrisy	【名】偽善	SECTION 33
+primarily	【副】第一に、何よりもまず	SECTION 33
+be concerned with	【動】(人が)～に関心がある	SECTION 33
+exploit	【動】～(人など)から搾取する	SECTION 33
+enhance	【動】～(質・価値など)を高める	SECTION 33
+living standard	【名】生活水準	SECTION 33
+exert	【動】～(権力など)を行使する	SECTION 33
+dominant	【形】(立場などが)支配的な	SECTION 33
+influence (on/over～)	【名】(～に対する)影響(力)	SECTION 33
+conservative	【形】保守的な	SECTION 33
+party	【名】党、政党	SECTION 33
+diminish	【動】弱まる	SECTION 33
+spokesperson	【名】報道担当者	SECTION 33
+refuse	【動】(～を)(きっぱりと)断る	SECTION 33
+make a comment (on/about ～)	【動】(～について)コメントする[見解を述べる]	SECTION 33
+under investigation	【形】調査を受けている、調査中の	SECTION 33
+police	【名】[the-]警察	SECTION 33
+pull (the) strings	【動】(陰で)糸を引く、操る	SECTION 33
+behind the scenes	【副】裏で、密かに	SECTION 33
+executive	【名】役員、取締役	SECTION 33
+entertain	【動】(～(人)を)もてなす[接待する]	SECTION 33
+bureaucrat	【名】官僚	SECTION 33
+,or ～	【接】すなわち[言い換えれば]	SECTION 33
+exclusive	【形】高級な、排他[閉鎖]的な	SECTION 33
+in return (for ～)	【副】(～の)お返しとして[見返りとして]	SECTION 33
+secretary	【名】秘書	SECTION 33
+flatly	【副】きっぱりと	SECTION 33
+deny doing	【動】～したことはないと言う	SECTION 33
+leak	【動】～(情報など)を漏らす	SECTION 33
+confidential	【形】内密の、機密の	SECTION 33
+dare (to) do	【動】(否定文で)思い切って[勇気を出して]～する	SECTION 33
+contradict	【動】～(人の)意見を否定する	SECTION 33
+his/her	【代】彼、彼女の(/はorの意味)	SECTION 33
+employer	【名】雇用主	SECTION 33
+for fear of	【前】～を恐れて	SECTION 33
+fire	【動】～をクビにする[解雇する]	SECTION 33
+sacrifice	【動】～を犠牲にする	SECTION 33
+promising	【形】前途有望な	SECTION 33
+career	【名】(社会人としての)経歴	SECTION 33
+retain	【動】～を維持する	SECTION 33
+dignity	【名】(人間としての)尊厳	SECTION 33
+might as well do A as do B	【動】BするくらいならAするほうがましだ	SECTION 33
+kill oneself	【動】自殺する	SECTION 33
+reconcile oneself to	【動】～を仕方なく受け入れる	SECTION 33
+fate	【名】運命	SECTION 33
+be about to do	【動】(間もなく)～するところである	SECTION 33
+commit	【動】～(犯罪・過失)を犯す	SECTION 33
+commit suicide	【動】自殺する	SECTION 33
+swallow	【動】～(食べ物など)を飲み込む	SECTION 33
+poison	【名】毒、毒物	SECTION 33
+think better of	【動】(考え直して)～しないことにする	SECTION 33
+vague	【形】曖昧な	SECTION 34
+rumor	【名】噂	SECTION 34
+prove	【動】～であるとわかる	SECTION 34
+false	【形】嘘の	SECTION 34
+nevertheless	【副】(前節を受けて)(だが)それでもやはり	SECTION 34
+skepticism	【名】疑い	SECTION 34
+linger (on)	【動】まだ続いている[残っている]	SECTION 34
+senior	【形】(役職が)上級(の)	SECTION 34
+official	【名】役人、(上級)公務員	SECTION 34
+suspect A of B	【動】A(人)にBの容疑をかける	SECTION 34
+accept	【動】～を受け取る	SECTION 34
+bribe	【名】賄賂	SECTION 34
+sufficient	【形】十分な	SECTION 34
+evidence	【名】証拠	SECTION 34
+arrest ～ (for A)	【動】(Aの容疑で)～を逮捕する	SECTION 34
+be in charge (of)	【動】(～の)担当責任者である	SECTION 34
+project	【名】計画、事業	SECTION 34
+dismiss	【動】～を解雇[解任]する	SECTION 34
+corruption	【名】汚職、不正(行為)、賄賂[収賄]	SECTION 34
+to (the best of) my knowledge	【副】私の知る限りでは	SECTION 34
+be involved in	【動】～(よくないこと)に巻き込まれる、～にかかわる	SECTION 34
+fraud	【名】詐欺(行為)、不正(行為)	SECTION 34
+scheme	【名】企み、陰謀	SECTION 34
+find ～ out	【動】～(知りたかったもの)を見つけ出す、～を発見する	SECTION 34
+truth	【名】真理、真実	SECTION 34
+examine	【動】～を(よく)調べる	SECTION 34
+a pile of	【形】(山ほどの)たくさんの	SECTION 34
+relevant (to)	【形】(～と)関連性のある	SECTION 34
+document	【名】書類	SECTION 34
+trial	【名】裁判、審理	SECTION 34
+come to light	【動】(事実などが)明るみに出る	SECTION 34
+cover ～ up	【動】～(悪い事)を隠す[隠蔽する]	SECTION 34
+illegal	【形】違法な	SECTION 34
+transaction	【名】商取引、処理	SECTION 34
+decade	【名】10年(間)	SECTION 34
+detective	【名】探偵、刑事	SECTION 34
+take ～ down	【動】～(人の言葉)を書き取る	SECTION 34
+testimony	【名】証言	SECTION 34
+on the spot	【副】その場で、直ちに	SECTION 34
+word for word	【副】一言一句違わずに	SECTION 34
+for the first time	【副】初めて	SECTION 34
+pang of	【名】(突然襲う精神的な)～の苦しみ[苦痛]	SECTION 34
+conscience	【名】良心	SECTION 34
+way out	【名】(困難な状況から)逃れる道[方法]	SECTION 34
+haunt	【動】(嫌な体験などが)～(人)の心[脳裏]に付きまとう	SECTION 34
+vivid	【形】(記憶などが)鮮明な	SECTION 34
+nightmare	【名】悪夢	SECTION 34
+by and large	【副】概して	SECTION 34
+do not hesitate to do	【動】遠慮なく～する	SECTION 34
+intrude (on)	【動】(～(私的な領域)を)侵害する	SECTION 34
+author	【名】作家、著者	SECTION 34
+revise	【動】～を改訂する、～に修正を加える	SECTION 34
+manuscript	【名】原稿	SECTION 34
+over and over (again)	【副】何度も(何度も)繰り返して	SECTION 34
+be second to none	【動】誰[何]にも劣らない[負けない]	SECTION 34
+when it comes to	【定】～のこととなると	SECTION 34
+find fault with	【動】～の過ちを指摘する、～に文句をつける	SECTION 34
+on the whole	【副】概して	SECTION 34
+elite	【名】[通例 集合的に]エリート(たち)	SECTION 34
+be sensitive to	【動】～(他人の気持ち・意見など)に敏感である	SECTION 34
+criticism	【名】批判、非難	SECTION 34
+tabloid	【名】タブロイド紙、大衆ゴシップ紙	SECTION 34
+reveal	【動】～(秘密・真実など)を明かす[示す]	SECTION 34
+drug	【名】麻薬	SECTION 34
+addict	【名】中毒者、常用者	SECTION 34
+reputation	【名】(世間の)評判	SECTION 34
+all but	【副】ほとんど	SECTION 34
+ruin	【動】～(名誉など)を失墜させる	SECTION 34
+consider	【動】～をよく検討する	SECTION 34
+aspect	【名】(問題などを構成する)側面	SECTION 34
+defense	【名】防衛	SECTION 34
+program	【名】(国・組織による)計画	SECTION 34
+point ～ out	【動】～を指摘する	SECTION 34
+numerous	【形】(非常に)多くの	SECTION 34
+flaw (in～)	【名】(～(機械など)の)欠陥、問題箇所	SECTION 34
+tolerate	【動】～に寛容な態度を取る	SECTION 35
+engage in	【動】～(活動など)にかかわる	SECTION 35
+terrorism	【名】テロ(行為)	SECTION 35
+notorious	【形】悪名高い	SECTION 35
+rebel	【名】(権力・体制などに対する)反抗者、反乱軍の兵士	SECTION 35
+ultimately	【副】最終的には	SECTION 35
+capture	【動】～を捕らえる	SECTION 35
+confine A to B	【動】A(人)をB(場所)に閉じ込める	SECTION 35
+jail	【名】拘置所	SECTION 35
+troop	【名】[-s]軍隊	SECTION 35
+swiftly	【副】素早く	SECTION 35
+call ～ in	【動】～(専門家など)を呼ぶ	SECTION 35
+put ～ down	【動】～(暴動など)を鎮圧する	SECTION 35
+riot	【名】暴動	SECTION 35
+appeal to	【動】～(理性など)に訴える	SECTION 35
+reason	【名】理性	SECTION 35
+instead of	【前】～ではなく(別の)、～(人)の代わりに	SECTION 35
+resort to	【動】(不本意ながら)～という手段を取る	SECTION 35
+violence	【名】暴力(行為)	SECTION 35
+suggest	【動】(控え目に)～を提案する	SECTION 35
+adopt	【動】～(方法など)を採用する	SECTION 35
+flexible	【形】(考えなどが)柔軟な	SECTION 35
+tactics	【名】(個々の)戦術	SECTION 35
+for the moment	【副】今のところは	SECTION 35
+armed forces	【名】[the-](一国の)全軍	SECTION 35
+succeed in	【動】～に成功する	SECTION 35
+occupy	【動】～(領土など)を占領する	SECTION 35
+entire	【形】すべての	SECTION 35
+territory	【名】領土	SECTION 35
+under the circumstances	【副】このような[そのような]状況下では	SECTION 35
+enemy	【名】[the-](集合的に)敵軍	SECTION 35
+have no choice but to do	【動】～せざるを得ない	SECTION 35
+surrender (to)	【動】(～に)降伏[降参]する	SECTION 35
+hold out	【動】(燃料・抵抗などが)持ちこたえる	SECTION 35
+not ～ any longer	【副】これ以上～ない	SECTION 35
+sooner or later	【副】遅かれ早かれ	SECTION 35
+hostage	【名】人質	SECTION 35
+set ～ free	【動】(監禁状態などから)～を解放する	SECTION 35
+reign	【名】(絶対君主の)支配[統治](時代)	SECTION 35
+tyranny	【名】専制政治	SECTION 35
+innocent	【形】罪のない	SECTION 35
+deprive A of B	【動】A(人)からB(必要不可欠なもの)を剥奪する[奪う]	SECTION 35
+citizenship	【名】市民[公民]権	SECTION 35
+soldier	【名】兵士	SECTION 35
+be reluctant to do	【動】～することに気が進まない	SECTION 35
+obey	【動】(～に)従う	SECTION 35
+command	【名】(軍の司令官などの)命令	SECTION 35
+regime	【名】(非民主的な)政権	SECTION 35
+be bound to do	【動】きっと～する	SECTION 35
+collapse	【動】崩壊する	SECTION 35
+ally	【名】同盟国	SECTION 35
+condemn	【動】～を厳しく非難する	SECTION 35
+invasion	【名】侵略	SECTION 35
+violation	【名】(法・規則などの)違反	SECTION 35
+resolution	【名】決議	SECTION 35
+rule ～ out	【動】～(可能性など)を排除する、～はないと断言する	SECTION 35
+possibility	【名】可能性	SECTION 35
+civil war	【名】内戦、内乱	SECTION 35
+break out	【動】(戦争・伝染病などが)(突然)発生する	SECTION 35
+colony	【名】植民地	SECTION 35
+declare	【動】～を宣言する	SECTION 35
+independence	【名】独立	SECTION 35
+republic	【名】共和国	SECTION 35
+immense	【形】非常に大きい、巨大な	SECTION 36
+monument	【名】記念碑	SECTION 36
+erect	【動】～を建てる	SECTION 36
+in honor of	【前】～に敬意を表して	SECTION 36
+noble	【形】(行為などが)崇高な、高潔な	SECTION 36
+patriot	【名】愛国者	SECTION 36
+on one's knees	【副】ひざをついて	SECTION 36
+pray	【動】(～を願って)祈りを捧げる	SECTION 36
+soul	【名】霊、魂	SECTION 36
+deceased	【形】[the -]故人(たち)	SECTION 36
+supreme	【形】(地位・性質などが)最高の	SECTION 36
+Supreme Court	【名】[the-]最高裁判所	SECTION 36
+be located	【動】位置する	SECTION 36
+imperial	【形】帝国の、天皇[皇帝]の	SECTION 36
+palace	【名】宮殿	SECTION 36
+pro-choice	【形】中絶(合法化に)賛成の	SECTION 36
+protest against	【動】～に抗議する	SECTION 36
+ban (on)	【名】(公式な)(～の)禁止(令)	SECTION 36
+abortion	【名】妊娠中絶	SECTION 36
+senator	【名】(米国の)上院議員	SECTION 36
+remain (～)	【動】～のままでいる	SECTION 36
+neutral	【形】(外交関係・議論などで)中立の	SECTION 36
+bitter	【形】(議論などが)激しい、(味が)にがい	SECTION 36
+controversy	【名】論争、議論	SECTION 36
+be in a ～ situation	【動】～な状況[立場]にある	SECTION 36
+all ～ long	【副】～の間ずっと	SECTION 36
+no longer	【副】もはや～ない	SECTION 36
+be capable of (doing)	【動】～できる(能力[技能]はある)	SECTION 36
+cope (with)	【動】(～に)うまく対処する	SECTION 36
+summit	【名】[the-]首脳会談[会議]	SECTION 36
+talks	【名】(数日間にわたる)会談	SECTION 36
+be to do	【助】～する予定である	SECTION 36
+broadcast	【動】(～を)放送[放映]する	SECTION 36
+simultaneously	【副】(全く)同時に	SECTION 36
+throughout the world	【副】世界中で	SECTION 36
+diplomatic	【形】外交(上)の	SECTION 36
+dialogue	【名】対話	SECTION 36
+help (to) do	【動】～するのに役立つ[貢献する]	SECTION 36
+put an end to	【動】～に終止符を打つ	SECTION 36
+conflict	【名】紛争、衝突	SECTION 36
+appoint	【動】～を任命する	SECTION 36
+goodwill	【名】親善、友好	SECTION 36
+ambassador	【名】大使	SECTION 36
+foster	【動】～(関係など)を育てる	SECTION 36
+mutual	【形】相互の	SECTION 36
+specialist	【名】専門家、評論家	SECTION 36
+predict	【動】～と予測[予言]する	SECTION 36
+international	【形】国際的な	SECTION 36
+tension	【名】(政治的・社会的)緊張(状態)	SECTION 36
+build (～) up	【動】(徐々に)高まる[増える]	SECTION 36
+in my opinion	【副】私の考えでは	SECTION 36
+permanent	【形】永久の	SECTION 36
+nothing but	【定】～に過ぎない	SECTION 36
+illusion	【名】幻想	SECTION 36
+ethnic	【形】民族の	SECTION 36
+minority	【名】(人種・宗教上の)少数派	SECTION 36
+struggle	【動】(苦しみながら)必死に戦う	SECTION 36
+prejudice	【名】偏見	SECTION 36
+poverty	【名】貧困	SECTION 36
+oppression	【名】(人種などに対する)抑圧	SECTION 36
+make an effort	【動】努力する	SECTION 36
+do away with	【動】～(制度など)を捨てる[廃止する]	SECTION 36
+discrimination (against)	【名】(～に対する)差別	SECTION 36
+immigrant	【名】(入国する)移民	SECTION 36
+endure	【動】(ずっと)～に耐える	SECTION 36
+physical	【形】肉体[身体]の	SECTION 36
+mental	【形】精神的な	SECTION 36
+pain	【名】(体の)痛み、(心の)苦痛	SECTION 36
+amendment	【名】(法律などの)改正案	SECTION 36
+reject	【動】～(要求・提案など)を拒絶する、～(訴えなど)を却下する	SECTION 36
+racial	【形】人種の	SECTION 36
+diversity	【名】(人種・意見などの)多様性	SECTION 36
+take ～ into account	【動】～を考慮に入れる	SECTION 36
+needless to say	【副】言うまでもなく	SECTION 36
+refugee	【名】難民	SECTION 36
+long for	【動】～を切望する	SECTION 36
+freedom	【名】自由(の状態)	SECTION 36
+according to	【前】～(情報源)によると	SECTION 37
+survey	【名】(世論・動向などの)調査	SECTION 37
+thee in five ～	【形】5つ[5人]のうち3つ[3人]の～	SECTION 37
+be indifferent to	【動】～に無関心である	SECTION 37
+foreign	【形】外国の	SECTION 37
+affair	【名】[-s](ある個人[国/時代]の)諸問題、(色々な)出来事	SECTION 37
+What will become of ～?	【定】～はどうなってしまうだろう？	SECTION 37
+relation	【名】[-s](仕事[外交]上などの)関係	SECTION 37
+security	【名】(戦争・犯罪などの)安全の確保[保障](されている状態)	SECTION 37
+treaty	【名】(国家間の)条約	SECTION 37
+expire	【動】(契約・券などが)期限切れになる	SECTION 37
+unless	【接】もし～でなければ	SECTION 37
+eliminate	【動】～(不要なもの)を取り除く	SECTION 37
+unfair	【形】不公平な	SECTION 37
+tariff	【名】関税	SECTION 37
+impose ～ (on A)	【動】(Aに)～(税・義務など)を課す	SECTION 37
+sanction	【名】[-s](国際法違反なおに対する)制裁(措置)	SECTION 37
+trade	【名】貿易	SECTION 37
+friction	【名】(関係などの)摩擦	SECTION 37
+arise-arose-arisen	【動】(問題・困難などが)起こる、生じる	SECTION 37
+at any moment	【副】(嫌なことが)今にも	SECTION 37
+priority	【名】優先事項	SECTION 37
+settle	【動】(～(問題などを)解決する	SECTION 37
+dispute	【名】論争、紛争	SECTION 37
+once and for all	【副】きっぱりと	SECTION 37
+be ready to do	【動】(いつでも)～するつもりだ、～する覚悟ができている	SECTION 37
+meet ～ away	【動】～(人)と妥協する	SECTION 37
+federal	【形】連邦政府[国家]の	SECTION 37
+budget	【名】予算(案)の	SECTION 37
+narrowly	【副】かろうじて	SECTION 37
+approve	【動】～を承認する	SECTION 37
+congress	【名】(C-)(米国の)議会	SECTION 37
+argue	【動】～だと主張する	SECTION 37
+administration	【名】政府、政権	SECTION 37
+look for	【動】～を探す	SECTION 37
+alternative	【形】代わりの～	SECTION 37
+source	【名】(発生[入手])源	SECTION 37
+revenue	【名】(国の)歳入	SECTION 37
+poll	【名】世論調査	SECTION 37
+overwhelming	【形】(数などが)圧倒的な	SECTION 37
+majority	【名】過半数、大多数	SECTION 37
+be in favor of	【動】～(意見など)を支持する	SECTION 37
+legislation	【名】法律	SECTION 37
+cop	【名】警官、刑事	SECTION 38
+search for	【動】～(捜し物)を捜す	SECTION 38
+clue (to～)	【名】(～の)手がかり、ヒント	SECTION 38
+brutal	【形】残虐な	SECTION 38
+murder	【名】殺人	SECTION 38
+insane	【形】狂気の、正気ではない	SECTION 38
+distinguish A from B	【動】AをBと区別する	SECTION 38
+vice	【名】悪いこと	SECTION 38
+virtue	【名】正しいこと	SECTION 38
+fingerprint	【名】指紋	SECTION 38
+weapon	【名】兵器、凶器	SECTION 38
+correspond (to/with～)	【動】(～に)一致する	SECTION 38
+take ～ by surprise	【動】～(人)を驚かす	SECTION 38
+noted	【形】有名な、著名な	SECTION 38
+psychologist	【名】心理学者	SECTION 38
+accuse ～ (of A)	【動】(Aの理由で)(法的に)～を訴える	SECTION 38
+kidnapping	【名】誘拐	SECTION 38
+jury	【名】陪審団	SECTION 38
+guilty (of～)	【形】(～で)有罪の	SECTION 38
+verdict	【名】(陪審団による)評決	SECTION 38
+give rise to	【動】～(よくないこと)を引き起こす	SECTION 38
+widespread	【形】(被害などが)広範囲にわたる	SECTION 38
+debate	【名】討論、論争	SECTION 38
+plead (with～) (for A)	【動】(～に)(Aを)請願する	SECTION 38
+mercy	【名】慈悲、情状酌量	SECTION 38
+sentence ～ (to A)	【動】～(人)に(Aという)(有罪)判決を下す	SECTION 38
+prison	【名】刑務所	SECTION 38
+crime	【名】(法律上の)犯罪(行為)	SECTION 38
+officer	【名】警官	SECTION 38
+on duty	【形】(兵士・警官・医者などが)職務中の、勤務中の	SECTION 38
+perceive	【動】(五感で)～に気付く	SECTION 38
+elderly	【形】お年寄りの	SECTION 38
+come up	【動】(自分のほうに)近づいてくる	SECTION 38
+catch sight of	【動】～をちらっと見かける	SECTION 38
+thief	【名】泥棒	SECTION 38
+attempt to do	【動】～しようと試みる	SECTION 38
+break into ～	【動】～(建物)に不法侵入する	SECTION 38
+witness	【動】～を目撃する	SECTION 38
+weird	【形】(この世のものとは思えないほど)奇妙な	SECTION 38
+incident	【名】(人々を不安にさせる)出来事	SECTION 38
+wilderness	【名】原野	SECTION 38
+become aware of	【動】～に気付く	SECTION 39
+stare (at)	【動】(～を)じっと見つめる	SECTION 39
+aisle	【名】(座席・棚の間の)通路	SECTION 39
+turn (～) around	【動】振り向く	SECTION 39
+in sight	【副】視界に(入って)	SECTION 39
+scream (～)	【動】(恐怖、興奮などで)悲鳴をあげる	SECTION 39
+horror	【名】(体が震えるほどの)恐怖	SECTION 39
+take hold of ～	【動】～をつかむ	SECTION 39
+inform A of[about] B	【動】(正式な形で)A(人)にBを知らせる	SECTION 39
+safety	【名】(身体・生命の)安全、無事	SECTION 39
+breathe	【動】～を吸う、～を吐く	SECTION 39
+sigh	【名】ため息	SECTION 39
+relief	【名】安堵	SECTION 39
+bullet	【名】銃弾	SECTION 39
+penetrate	【動】(～を)突き抜ける(貫通する)、(～の)奥まで入り込む	SECTION 39
+chest	【名】胸部(全体)	SECTION 39
+critical	【形】危機的な、危篤の	SECTION 39
+be in ～ condition	【動】～な状態[程度]である	SECTION 39
+at present	【副】現時点で	SECTION 39
+uncertain	【形】(物が)不確実な	SECTION 39
+whether A or B	【接】AなのかそれともBなのか	SECTION 39
+deliberately	【副】故意に	SECTION 39
+by accident	【副】誤って、過失で	SECTION 39
+deli	【名】デリ[デリカテッセン]、惣菜売場	SECTION 39
+catch fire	【動】火がつく	SECTION 39
+burn down	【動】(建物が)全焼する	SECTION 39
+heap	【名】(乱雑に積み上げられた)山	SECTION 39
+ash	【名】[通例-es]灰、燃えかす	SECTION 39
+all of a sudden	【副】突然	SECTION 39
+firework	【名】[通例-s]花火	SECTION 39
+warehouse	【名】倉庫、貯蔵庫	SECTION 39
+explode	【動】爆発する	SECTION 39
+put ～ out	【動】～(火・タバコ)を消す	SECTION 39
+blaze	【名】激しい炎	SECTION 39
+bomb	【名】爆弾	SECTION 39
+go off	【動】(爆発物が)爆発する	SECTION 39
+～-story	【名】～階建て(の建物)	SECTION 39
+seriously	【副】ひどく	SECTION 39
+wounded	【形】(武器・凶器で)負傷した	SECTION 39
+cargo	【名】貨物	SECTION 39
+vessel	【名】(大型の)船舶	SECTION 39
+bound (for～)	【形】(電車・飛行機などが)(～方面)行きの	SECTION 39
+sink-sank-sunk	【動】沈む	SECTION 39
+Mediterranean	【名】[the-]地中海	SECTION 39
+without (a) trace	【副】何の痕跡も残さずに	SECTION 39
+reckless	【形】無謀な	SECTION 39
+freeze-froze-frozen	【動】凍る	SECTION 39
+to death	【副】～の結果死ぬ、死ぬほど～	SECTION 39
+expedition	【名】(グループによる未開の地への)探検[調査]旅行	SECTION 39
+Antarctic	【名】[the-]南極(地方)	SECTION 39
+tragedy	【名】悲劇的な出来事	SECTION 39
+remember	【動】(～を)覚えている、(～を)覚えておく	SECTION 39
+so as (not) to do	【副】～なるように、(～ならないように)	SECTION 39
+repeat	【動】(～を)繰り返す	SECTION 39
+exhibition	【名】展覧会	SECTION 40
+offer	【動】(物事が)～を提供する[与える]	SECTION 40
+profound	【形】(意味・教養などが)深い	SECTION 40
+insight (into ～)	【名】(～に対する)洞察(力)、深い理解(力)	SECTION 40
+ancient	【形】古代の	SECTION 40
+civilization	【名】文明	SECTION 40
+credit A with[for] B	【動】BをA(人)の実績として認める[評価する]	SECTION 40
+sow	【動】～(種)をまく	SECTION 40
+seed	【名】[the-s]（争い・変化などの)種、きっかけ	SECTION 40
+renaissance	【名】[the R-]ルネッサンス	SECTION 40
+mount	【動】～を載せる[はめ込む]	SECTION 40
+portrait	【名】肖像画[写真]	SECTION 40
+fancy	【形】装飾された	SECTION 40
+frame	【名】枠、額縁	SECTION 40
+upside down	【形】【副】上下逆さまの[に]	SECTION 40
+magnificent	【形】(外観・景観などが)荘厳な	SECTION 40
+cathedral	【名】大聖堂	SECTION 40
+date back to	【動】(起源が)～にまでさかのぼる	SECTION 40
+Middle Ages	【名】[the-]中世	SECTION 40
+religion	【名】[複合語で]～の宗教、～教	SECTION 40
+inspire	【動】～(人)に創作[行動]の意欲を沸かせる	SECTION 40
+create	【動】～(作品など)を創造する	SECTION 40
+splendid	【形】すばらしい	SECTION 40
+sculpture	【名】彫刻作品	SECTION 40
+explore	【動】～(場所)を探検する	SECTION 40
+desert (1)	【名】砂漠	SECTION 40
+in search of	【前】～を求めて	SECTION 40
+bury	【動】～を埋める	SECTION 40
+treasure	【名】宝物	SECTION 40
+millionaire	【名】大富豪	SECTION 40
+insist (on～)	【動】(～を)強く主張する	SECTION 40
+acquire	【動】(時間・労力などを費やして)～を獲得する	SECTION 40
+masterpiece	【名】(ある芸術家の)傑作	SECTION 40
+no matter how	【副】たとえどんな[どれだけ]～でも	SECTION 40
+cost (A) ～	【動】(A(人)に)～(金額)の出費[負担]を要求する	SECTION 40
+myth	【名】神話	SECTION 40
+legend	【名】伝説	SECTION 40
+hand ～ down (to A)	【動】～を(A(次の世代)に)伝える	SECTION 40
+from generation to generation	【副】代々	SECTION 40
+linguist	【名】言語学者	SECTION 40
+be fluent in	【動】～を流暢に話す	SECTION 40
+several	【形】いくつかの	SECTION 40
+dialect	【名】(ある地域の)方言	SECTION 40
+tribe	【名】部族	SECTION 40
+worship	【動】（～(神)を)崇拝する	SECTION 40
+ancestor	【名】先祖	SECTION 40
+language	【名】(ある国の)言葉	SECTION 40
+be familiar to	【動】～によく知られている	SECTION 40
+anthropologist	【名】(文化)人類学者	SECTION 40
+custom	【名】(社会などの)慣習	SECTION 40
+prevail	【動】(慣習などが)広く行われている[よく見られる]	SECTION 40
+province	【名】(自治)州	SECTION 40
+wicked	【形】(性格などが)意地の悪い	SECTION 40
+witch	【名】魔女	SECTION 40
+cast a spell (on～)	【動】(に)呪文[魔法]をかける	SECTION 40
+evil	【形】(行為・考えなどが)とても悪い、邪悪な	SECTION 40
+spell	【名】呪文、魔法	SECTION 40
+turn A into B	【動】AをBに変える	SECTION 40
+bug	【名】虫	SECTION 40
+proceed	【動】(先に)進む	SECTION 40
+steep	【形】(道などの)傾斜が急な	SECTION 40
+path	【名】細道、小道	SECTION 40
+sole (1)	【形】唯一の	SECTION 40
+access	【名】(場所などに)到着する方法[入る方法]	SECTION 40
+border	【名】国境	SECTION 40
+ape	【名】(ゴリラ、チンパンジーなどの)猿、類人猿	SECTION 40
+emerge	【動】(姿が)現れる	SECTION 40
+cave	【名】洞窟	SECTION 40
+be[get] frightened (of ～ [that ～]	【名】(～を)怖がる、(～に)びっくりする	SECTION 40
+run away	【動】逃げる	SECTION 40
+believe it or not	【副】信じてもらえないかもしれないが(本当に)	SECTION 40
+alien	【名】宇宙人	SECTION 40
+vanish	【動】(突然[完全に])消える	SECTION 40
+Give me a break.	【定】冗談はよしてくれ	SECTION 40
+quite a few	【形】かなり多くの(数)	SECTION 41
+invite A (to B)	【動】Aを(Bに)招待する	SECTION 41
+celebrate	【動】(式などを催して)(～(特別な行事)を)祝う	SECTION 41
+anniversary	【名】記念日	SECTION 41
+it won't be long before ～	【動】～するまでもうすぐだ	SECTION 41
+in the meantime	【副】その間に	SECTION 41
+help oneself to	【動】[命令文で]～(食べ物など)をご自由にどうぞ	SECTION 41
+snack	【名】軽食	SECTION 41
+be dressed in	【動】～(服)を着ている	SECTION 41
+loud	【形】(服・色などが)けばけばしい	SECTION 41
+peculiar	【形】奇妙な	SECTION 41
+outfit	【名】服装、衣装	SECTION 41
+stand out	【動】目立つ、際立つ	SECTION 41
+crowd	【名】人込み	SECTION 41
+touch	【動】～(人)を感動させる	SECTION 41
+hospitality	【名】(心のこもった)もてなし	SECTION 41
+shabby	【形】(衣装・住居などが)ぼろぼろの、みすぼらしい	SECTION 41
+clothes	【名】衣装、洋服	SECTION 41
+be suitable for[to]	【動】～にふさわしい	SECTION 41
+occasion	【名】(特別な)行事、イベント	SECTION 41
+topic	【名】話題	SECTION 41
+too A(形容詞) to ～	【構】～するにはあまりにA過ぎる	SECTION 41
+intimate	【形】とても私的な	SECTION 41
+share A (with B)	【動】Aを(Bに)話す	SECTION 41
+casual	【形】偶然の、何気ない	SECTION 41
+acquaintance	【名】知人	SECTION 41
+drunk	【形】酔っ払った	SECTION 41
+crude	【形】(言葉などが)下品な、卑猥な	SECTION 41
+offensive	【形】(言葉・態度などが)(人を)不快にさせる	SECTION 41
+keep[stay] away from	【動】～に近づかない	SECTION 41
+hardly	【副】ほとんど～ない	SECTION 41
+comprehend	【動】～を理解する	SECTION 41
+imply	【動】～をほのめかす	SECTION 41
+embarrassed	【形】どぎまぎした、恥ずかしい	SECTION 41
+tease	【動】(しつこく)(～を)からかう	SECTION 41
+in front of	【前】～の正面に[で]	SECTION 41
+ambiguous	【形】曖昧な	SECTION 41
+reply	【名】返事	SECTION 41
+all the more	【副】なおさら	SECTION 41
+irritate	【動】～をいらいらさせる	SECTION 41
+timid	【形】臆病な	SECTION 41
+blush	【動】赤面する	SECTION 41
+chat	【動】おしゃべりする	SECTION 41
+look down on	【動】～(人)を見下す	SECTION 41
+come from	【動】～の出身である、～から来る	SECTION 41
+rural	【形】(都会から離れた)地方の	SECTION 41
+What's the matter (with～) ?	【定】(～が)どうかしたの	SECTION 41
+miserable	【形】惨めな、とても不幸な	SECTION 41
+leave ～ alone	【動】～をほうっておく	SECTION 41
+(It's) none of your business.	【定】あなたには関係ないことだ	SECTION 41
+in disguise	【形】【副】変装して	SECTION 41
+recognize	【動】～が誰[何]だかわかる	SECTION 41
+at a glance	【副】一目見て	SECTION 41
+chuckle	【動】くすくす笑う	SECTION 41
+have ～ on	【動】～を身に付けている[着ている]	SECTION 41
+sweatshirt	【名】スウェット、トレーナー	SECTION 41
+backward(s)	【副】{米}(服を)後ろ前に	SECTION 41
+be good at	【動】～が上手だ	SECTION 42
+make friends (with～)	【動】(～と)仲良しになる[親しくなる]	SECTION 42
+keep to oneself	【動】自分の殻に閉じこもる	SECTION 42
+belong	【動】(人が)受け入れられる場所にいる	SECTION 42
+extremely	【副】極度に	SECTION 42
+uneasy	【形】不安な	SECTION 42
+lonely	【形】孤独な	SECTION 42
+pretty	【副】かなり	SECTION 42
+adjust to	【動】～に順応する	SECTION 42
+surroundings	【名】(自分の周囲の)環境	SECTION 42
+utterly	【副】全く	SECTION 42
+out of place	【形】(人・場所などが)場違いの、(人が)浮いてしまって	SECTION 42
+sophisticated	【形】洗練された	SECTION 42
+to tell (you) the truth	【副】実を言うと	SECTION 42
+classical	【形】(音楽ジャンルが)クラシックの	SECTION 42
+on the other hand	【副】しかし一方では	SECTION 42
+be into	【動】～(趣味など)にはまっている	SECTION 42
+derive A from B	【動】BからAを引き出す	SECTION 42
+pleasure	【名】楽しみ	SECTION 42
+observe	【動】～を観察する	SECTION 42
+insect	【名】昆虫	SECTION 42
+How[What] about ～?	【定】～はいかがですか？	SECTION 42
+play cards	【動】トランプをする	SECTION 42
+A or something	【名】Aか何か	SECTION 42
+for a change	【副】気分転換に	SECTION 42
+I'm not up for it.	【定】そういう気分じゃないよ	SECTION 42
+After you.	【定】お先にどうぞ	SECTION 42
+go ahead	【動】先へ進む	SECTION 42
+You're welcome	【定】どういたしまして	SECTION 42
+niece	【名】姪	SECTION 42
+sociable	【形】(人が)社交的な	SECTION 42
+mature	【形】(精神面で)大人になった	SECTION 42
+for one's age	【副】年の割には	SECTION 42
+pass for	【動】(本当は違うが)～として通用する	SECTION 42
+twenty-something	【名】二十歳(かそこら)、二十代(表現をぼかすときに使う)	SECTION 42
+take care (of yourself)	【定】(別れの挨拶)(相手を気遣って)じゃあね	SECTION 42
+say hi[hello] to～ (for me)	【定】(別れ際などに)～(人)によろしく	SECTION 42
+See you later.	【定】またね	SECTION 42
+look forward to ～ing	【動】～を楽しみをする	SECTION 42
+hear from	【動】～(人)から(手紙・電話などで)連絡をもらう	SECTION 42
+Sincerely (yours)	【定】敬具	SECTION 42
+spare	【動】～(時間)を割く	SECTION 43
+discuss	【動】～について話し合う	SECTION 43
+of importance (to～)	【形】(～にとって)重要な	SECTION 43
+seem (to be)	【動】～のように思える	SECTION 43
+trivial	【形】些細な	SECTION 43
+A is worth doing	【動】Aは～するだけの価値がある	SECTION 43
+pay attention to	【動】～に注意を払う	SECTION 43
+as far as A is concerned	【副】Aに関しては	SECTION 43
+anything goes	【定】何でも受け入れる	SECTION 43
+by[in] contrast	【副】それとは対照的に	SECTION 43
+cautious	【形】用心[注意]深い、慎重な	SECTION 43
+awkward	【形】(状況などが)気まずい	SECTION 43
+pause	【名】(会話などの)間	SECTION 43
+take ～ by the hand[arm]	【動】(どこかへ連れていく目的で)～の手[腕]を取る[つかむ]	SECTION 43
+drag	【動】～(抵抗するもの)を無理に引っ張って進む	SECTION 43
+upstairs	【副】上の階[二階]へ[に、で]	SECTION 43
+comfort	【動】～を慰める	SECTION 43
+interpret A (as B)	【動】Aを(Bの意味に)解釈する	SECTION 43
+romantic	【形】(関係などが)恋愛の	SECTION 43
+interest	【名】興味[関心]	SECTION 43
+make sure[certain] (that) ～	【動】～を確かめる	SECTION 43
+sound (2)	【副】(眠りが)深く	SECTION 43
+be asleep	【動】眠っている	SECTION 43
+creep	【動】(人に気づかれないように)静かに[忍び足で]歩く	SECTION 43
+set off	【動】(旅行などに)出発する	SECTION 43
+between you and me	【副】ここだけの話だけど	SECTION 43
+come across	【動】～を偶然見つける	SECTION 43
+passionately	【副】情熱的に	SECTION 43
+embrace	【動】(～を)強く抱きしめる	SECTION 43
+remark	【名】発言	SECTION 43
+be open to	【動】～(批判など)を受けやすい	SECTION 43
+misunderstanding	【名】誤解	SECTION 43
+stand	【動】～に我慢する	SECTION 43
+not ～ anymore[any more]	【副】もうこれ以上～しない	SECTION 43
+calm (～) down	【動】落ち着く	SECTION 43
+come over	【動】そこに行く[相手のいる場所に向かう]	SECTION 43
+as ～ as possible	【副】できるだけ～に	SECTION 43
+literally	【副】文字通りの	SECTION 43
+be inclined to do	【動】～する傾向がある	SECTION 43
+exaggerate	【動】(～を)大げさに表現する	SECTION 43
+apologize (to ～) (for A)	【動】(Aのことで)(～に)謝罪する	SECTION 43
+make fun of	【動】～をばかにする	SECTION 43
+go too far	【動】(相手に対する態度などが)度を越す	SECTION 43
+sometime	【副】そのうち	SECTION 43
+be in a good mood	【動】機嫌がいい	SECTION 43
+get along (well) with	【動】～(人)とうまくやっていく	SECTION 43
+once in a while	【副】時々	SECTION 43
+think of[about]	【動】～しようかと考える	SECTION 43
+divorce	【動】(～と)離婚する	SECTION 43
+You must be kidding.	【定】冗談でしょう	SECTION 43
+in tears	【副】泣きながら	SECTION 43
+tear ～ up	【動】～(薄いもの)を(ずたずたに)引き裂く	SECTION 43
+throw ～ away	【動】～を捨てる	SECTION 43
+deceive	【動】～をだます	SECTION 44
+should[ought to] have done	【助】～するべきだった(のにしなかった)	SECTION 44
+know better (than to do)	【動】(～しないくらいの)分別はある	SECTION 44
+trust	【動】～を信頼[信用]する	SECTION 44
+regret doing	【動】～したことを後悔する	SECTION 44
+waste	【動】～を無駄にする	SECTION 44
+a good[great] deal of	【形】(とても)たくさんの～	SECTION 44
+not[never] do without A	【定】～する時はいつも[必ず]Aをする	SECTION 44
+look back (on～)	【動】(～を)振り返る[回想する]	SECTION 44
+adolescence	【名】思春期	SECTION 44
+depress	【形】憂鬱な	SECTION 44
+leave A for B	【動】A(人)を見捨ててB(別の人)にいく	SECTION 44
+guy	【名】男	SECTION 44
+be upset	【動】精神的に不安定である	SECTION 44
+Not really.	【定】(返答で)そうでもないよ	SECTION 44
+be used to	【動】～に慣れている	SECTION 44
+(it is) no wonder (that) ～	【定】～ということも不思議ではない[当然だ]	SECTION 44
+show up	【動】(待っていた人が)姿を見せる	SECTION 44
+see ～ up	【動】～(人)を見送る	SECTION 44
+How come?	【定】どうして？	SECTION 44
+break (～) up	【動】(異性と)別れる[関係がこわれる]	SECTION 44
+What a pity[shame]!	【定】それはかわいそうに	SECTION 44
+all by oneself	【副】たった一人で	SECTION 44
+torture	【名】(罰としての)拷問、(肉体的・精神的な)耐え難い苦痛	SECTION 44
+sob	【動】～とすすり[むせび]泣きながら言う	SECTION 44
+to be honest (with you)	【副】正直に言うと	SECTION 44
+be crazy about	【動】～の熱狂的なファンである	SECTION 44
+brave	【形】勇敢な	SECTION 44
+self-confident	【形】(自分(の能力など)に)自信がある	SECTION 44
+be afraid (of～)	【動】(～を)怖がる	SECTION 44
+take[run] a risk	【動】危険を冒す	SECTION 44
+if I were you, I'd do	【定】私(があなたの立場)だったら～するかな	SECTION 44
+ask ～ out	【動】～(異性)をデートに誘う	SECTION 44
+go with	【動】～(異性)と付き合う	SECTION 44
+on and off/ off and on	【副】(長い期間に)したりやめたりを繰り返して	SECTION 44
+for ages	【副】ずいぶんと長い間	SECTION 44
+as ～ as ever	【副】相変わらず～	SECTION 44
+indecisive	【形】決断力のない、優柔不断な	SECTION 44
+it is (about/high) time (that) ～	【構】もう～してもよい時間だ	SECTION 44
+settle down	【動】身を固める	SECTION 44
+it dawns on A that ～	【動】～ということにA(人)が(だんだん)気付いてくる	SECTION 44
+be taken in by	【動】～にだまされる	SECTION 44
+all along	【副】最初からずっと	SECTION 44
+naive	【形】うぶな	SECTION 44
+see through	【動】～の正体を見抜く	SECTION 44
+even though ～	【接】実際に～だけれども(それでも)	SECTION 44
+be seeing	【動】～(異性）と付き合っている	SECTION 44
+give (～) up	【動】(～を)あきらめる	SECTION 44
+What's up?	【定】どうだい調子は？	SECTION 44
+Not much	【定】別に	SECTION 44
+get married (to～)	【動】(～と)結婚する	SECTION 44
+Congratulations	【感】おめでとう！	SECTION 44
+be in trouble	【動】(相当)大変な[まずい]ことになっている	SECTION 44
+feel down	【動】気分が落ち込んでいる	SECTION 44
+be there (for A)	【動】(困った時には)(Aの)そばにいる	SECTION 44
+delight	【名】(大きな)喜び	SECTION 44
+opposite	【名】反対のもの	SECTION 44
+sorrow	【名】(深い)悲しみ	SECTION 44
+go so far as to do	【動】(なんと)～さえもする	SECTION 44
+idiot	【名】ばか	SECTION 44
+take ～ back	【動】～(発言など)を撤回する	SECTION 44
+(It) serves you right.	【定】当然の報いだ	SECTION 44
+provoke	【動】～(人)を挑発する	SECTION 44
+put up with	【動】～に我慢する[耐える]	SECTION 44
+arrogance	【名】緩慢さ	SECTION 44
+take advantage of	【動】～を悪用する（～を利用する）	SECTION 44
+Shut up!	【定】黙れ！、うるさい！	SECTION 44
+take one's time	【動】慌てない	SECTION 44
+a couple of	【形】2、3の	SECTION 44
+reflect on[upon]	【動】～をよく[深く]考える	SECTION 44
+get through	【動】～(辛いこと)を乗り切る	SECTION 44
+ordeal	【名】厳しい試練	SECTION 44
+(all) on one's own	【副】(たった)一人で、自分(だけ)で	SECTION 44
+fly	【名】ハエ	SECTION 45
+mosquito	【名】蚊	SECTION 45
+interfere (with ～)	【動】(～の)邪魔[妨害]をする	SECTION 45
+meditation	【名】(宗教的な)瞑想	SECTION 45
+sacred	【形】神聖な	SECTION 45
+ritual	【名】(宗教的・伝統的な)儀式	SECTION 45
+take place	【動】(行事・会合などが)行われる	SECTION 45
+postpone	【動】～の延期を決定する	SECTION 45
+all at once	【動】突然	SECTION 45
+Buddhist	【名】仏教徒	SECTION 45
+priest	【名】(キリスト教以外の)聖職者、僧侶	SECTION 45
+burst into	【動】突然～の状態になる	SECTION 45
+spoil	【動】～を台無しにする	SECTION 45
+solemn	【形】厳粛な	SECTION 45
+atmosphere	【名】雰囲気	SECTION 45
+cough	【動】咳をする	SECTION 45
+sneeze	【動】くしゃみをする	SECTION 45
+yawn	【動】あくびをする	SECTION 45
+relative	【名】親戚(の一人)	SECTION 45
+pass away	【動】(人が)亡くなる	SECTION 45
+That's too bad	【定】それは大変だね	SECTION 45
+I'm so sorry	【定】それはお気の毒に	SECTION 45
+besides	【前】～に加えて	SECTION 45
+attend	【動】～(会議など)に出席する	SECTION 45
+funeral	【名】葬式	SECTION 45
+make arrangements	【動】段取りをつける	SECTION 45
+feel for	【動】～の気持ちがわかる	SECTION 45
+grief	【名】(死別などによる)深い悲しみ	SECTION 45
+fade away	【動】徐々に消える	SECTION 45
+get over	【動】～(病気など)を克服する	SECTION 45
+cherish	【動】(宝物のように)～を大切にする	SECTION 45
+precious	【形】貴重な、大切な	SECTION 45
+memory	【名】思い出	SECTION 45
+childhood	【名】少年[少女]時代	SECTION 45
+speaking of	【定】～と言えば	SECTION 45
+get[be] engaged (to ～)	【動】(～と)婚約する[している]	SECTION 45
+businessman	【名】実業家	SECTION 45
+I'm at a loss for words.	【定】あきれてものが言えないよ	SECTION 45
+break (～) off	【動】～(関係)が(突然)壊れる[破局する]	SECTION 45
+these days	【副】近ごろは	SECTION 45
+motive	【名】動機	SECTION 45
+marriage	【名】結婚	SECTION 45
+not necessarily	【副】(可能性として)必ずしも～ではない	SECTION 45
+pure	【形】純粋な	SECTION 45
+Take ～ for example.	【定】例えば～を見てごらん	SECTION 45
+go easy on	【動】～にやさしく接する	SECTION 45
+you know	【副】(適当な言葉が瞬時に出てこない時に)ほら、あれだよ	SECTION 45
+go through	【動】～(嫌なこと)を経験する	SECTION 45
+rough	【形】(人生が)辛い、粗い	SECTION 45
+period	【名】期間、時期	SECTION 45
+recently	【副】最近、この頃	SECTION 45
+by the way	【副】(話題を変えるときに)ところで	SECTION 45
+Do you have the time?	【定】(今の)時間わかりますか？、今何時ですか？	SECTION 45
+Let's see/Let me see.	【定】え～っと	SECTION 45
+It's quarter to eight.	【定】8時15分前です	SECTION 45
+Let's call it a day.	【定】今日はこの辺までにしておこう	SECTION 45
+be starved[starving]	【動】おなかがペコペコだ	SECTION 45
+I'll buy you ～	【定】～をおごるよ	SECTION 45

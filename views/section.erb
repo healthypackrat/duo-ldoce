@@ -1,0 +1,31 @@
+<h3><%=h title %></h3>
+
+<%- phrases.each do |phrase| -%>
+  <p><%= link_to_search_on_ldoce(phrase['text']) %></p>
+
+  <div class="words">
+    <%- phrase['words'].select {|w| w['entries'] }.each do |word| -%>
+      <p><%= link_to_ldoce(word['text'], word['slug']) %></p>
+
+      <div class="entries">
+        <%- word['entries'].each do |entry| -%>
+          <%- if entry['categories'] || entry['phonetic_text'] -%>
+            <p>
+              <%- if entry['categories'] -%>
+                <em class="text-muted"><%= entry['categories'].join(', ') %></em>
+              <% end %>
+
+              <%- if entry['phonetic_text'] -%>
+                <%= entry['phonetic_text'] %>
+              <% end %>
+            </p>
+          <%- end -%>
+
+          <p>
+            <button class="play btn btn-info btn-sm" data-url="<%=h entry['pronunciation_url'] %>">Play</button>
+          </p>
+        <%- end -%>
+      </div>
+    <%- end -%>
+  </div>
+<%- end -%>

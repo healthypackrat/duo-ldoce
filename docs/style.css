@@ -1,0 +1,19 @@
+.words {
+  background-color: #E5E5E5;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.words > div:last-child {
+  margin-bottom: 0;
+}
+
+.entries {
+  background-color: #F5F5F5;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.entries > p:last-child {
+  margin-bottom: 0;
+}
