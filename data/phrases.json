@@ -3734,7 +3734,22 @@
     "words": [
       {
         "text": "wages",
-        "entries": null
+        "entries": [
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/wage1.mp3?version=1.1.86",
+            "phonetic_text": "/weɪdʒ/",
+            "categories": [
+              "noun"
+            ]
+          },
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/wage1.mp3?version=1.1.86",
+            "phonetic_text": null,
+            "categories": [
+              "verb"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -4455,7 +4470,28 @@
       },
       {
         "text": "lots",
-        "entries": null
+        "entries": [
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/lot1.mp3?version=1.1.86",
+            "phonetic_text": "/lɒt $ lɑːt/",
+            "categories": [
+              "pronoun",
+              "adverb"
+            ]
+          },
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/lot1.mp3?version=1.1.86",
+            "phonetic_text": null,
+            "categories": [
+              "noun"
+            ]
+          },
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/ld5_lot.mp3?version=1.1.86",
+            "phonetic_text": "/lɒt $ lɑːt/",
+            "categories": null
+          }
+        ]
       }
     ]
   },
@@ -11787,7 +11823,15 @@
       },
       {
         "text": "expectations",
-        "entries": null
+        "entries": [
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/expectation.mp3?version=1.1.86",
+            "phonetic_text": "/ˌekspekˈteɪʃən/",
+            "categories": [
+              "noun"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -14855,7 +14899,15 @@
     "words": [
       {
         "text": "sooner",
-        "entries": null
+        "entries": [
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/ld45soon.mp3?version=1.1.86",
+            "phonetic_text": "/suːn/",
+            "categories": [
+              "adverb"
+            ]
+          }
+        ]
       },
       {
         "text": "than",
@@ -19185,7 +19237,22 @@
       },
       {
         "text": "heart's",
-        "entries": null
+        "entries": [
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/hart.mp3?version=1.1.86",
+            "phonetic_text": "/hɑːt $ hɑːrt/",
+            "categories": [
+              "noun"
+            ]
+          },
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/ld5_heart.mp3?version=1.1.86",
+            "phonetic_text": null,
+            "categories": [
+              "verb"
+            ]
+          }
+        ]
       },
       {
         "text": "content",
@@ -26884,7 +26951,22 @@
       },
       {
         "text": "terms",
-        "entries": null
+        "entries": [
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/term1.mp3?version=1.1.86",
+            "phonetic_text": "/tɜːm $ tɜːrm/",
+            "categories": [
+              "noun"
+            ]
+          },
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/term1.mp3?version=1.1.86",
+            "phonetic_text": null,
+            "categories": [
+              "verb"
+            ]
+          }
+        ]
       },
       {
         "text": "with",
@@ -35461,7 +35543,22 @@
     "words": [
       {
         "text": "stands",
-        "entries": null
+        "entries": [
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/stand1.mp3?version=1.1.86",
+            "phonetic_text": "/stænd/",
+            "categories": [
+              "verb"
+            ]
+          },
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/stand1.mp3?version=1.1.86",
+            "phonetic_text": null,
+            "categories": [
+              "noun"
+            ]
+          }
+        ]
       },
       {
         "text": "for",
@@ -38421,7 +38518,22 @@
     "words": [
       {
         "text": "terms",
-        "entries": null
+        "entries": [
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/term1.mp3?version=1.1.86",
+            "phonetic_text": "/tɜːm $ tɜːrm/",
+            "categories": [
+              "noun"
+            ]
+          },
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/term1.mp3?version=1.1.86",
+            "phonetic_text": null,
+            "categories": [
+              "verb"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -44863,7 +44975,22 @@
       },
       {
         "text": "measures",
-        "entries": null
+        "entries": [
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/measure1.mp3?version=1.1.86",
+            "phonetic_text": "/ˈmeʒə $ -ər/",
+            "categories": [
+              "verb"
+            ]
+          },
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/measure1.mp3?version=1.1.86",
+            "phonetic_text": null,
+            "categories": [
+              "noun"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -46161,7 +46288,22 @@
       },
       {
         "text": "costs",
-        "entries": null
+        "entries": [
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/cost1.mp3?version=1.1.86",
+            "phonetic_text": "/kɒst $ kɒːst/",
+            "categories": [
+              "noun"
+            ]
+          },
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/cost1.mp3?version=1.1.86",
+            "phonetic_text": null,
+            "categories": [
+              "verb"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -58350,7 +58492,22 @@
       },
       {
         "text": "forces",
-        "entries": null
+        "entries": [
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/force1.mp3?version=1.1.86",
+            "phonetic_text": "/fɔːs $ fɔːrs/",
+            "categories": [
+              "noun"
+            ]
+          },
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/force1.mp3?version=1.1.86",
+            "phonetic_text": null,
+            "categories": [
+              "verb"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -58753,7 +58910,15 @@
     "words": [
       {
         "text": "sooner",
-        "entries": null
+        "entries": [
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/ld45soon.mp3?version=1.1.86",
+            "phonetic_text": "/suːn/",
+            "categories": [
+              "adverb"
+            ]
+          }
+        ]
       },
       {
         "text": "later",
@@ -60257,7 +60422,22 @@
     "words": [
       {
         "text": "talks",
-        "entries": null
+        "entries": [
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/talk1.mp3?version=1.1.86",
+            "phonetic_text": "/tɔːk $ tɒːk/",
+            "categories": [
+              "verb"
+            ]
+          },
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/talk1.mp3?version=1.1.86",
+            "phonetic_text": null,
+            "categories": [
+              "noun"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -76565,7 +76745,15 @@
     "words": [
       {
         "text": "starved",
-        "entries": null
+        "entries": [
+          {
+            "pronunciation_url": "https://d27ucmmhxk51xv.cloudfront.net/media/english/ameProns/starve.mp3?version=1.1.86",
+            "phonetic_text": "/stɑːv $ stɑːrv/",
+            "categories": [
+              "verb"
+            ]
+          }
+        ]
       },
       {
         "text": "starving",
