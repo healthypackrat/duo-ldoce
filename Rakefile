@@ -159,7 +159,7 @@ task 'data/phrases.json' => 'data/word2slug.json' do |t|
         phonetic_node = speaker_node.parent.at('./span[@class="PronCodes"]')
         phonetic_text = phonetic_node && phonetic_node.text.gsub(/\s+/, ' ').strip
 
-        categories = speaker_node.parent.search('./span[@class="POS"]').map {|node| node.text.gsub(/\W+/, '') }
+        categories = speaker_node.parent.search('./span[@class="POS"]').map {|node| node.text.gsub(/\W+/, ' ').strip }
         categories = nil if categories.empty?
 
         { 'pronunciation_url' => pronunciation_url, 'phonetic_text' => phonetic_text, 'categories' => categories }
