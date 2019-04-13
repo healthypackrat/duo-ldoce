@@ -13,11 +13,11 @@
             <p>
               <%- if entry['categories'] -%>
                 <em class="text-muted"><%= entry['categories'].join(', ') %></em>
-              <% end %>
+              <%- end -%>
 
               <%- if entry['phonetic_text'] -%>
                 <%= entry['phonetic_text'] %>
-              <% end %>
+              <%- end -%>
             </p>
           <%- end -%>
 
