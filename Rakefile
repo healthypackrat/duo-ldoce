@@ -133,11 +133,7 @@ task 'data/phrases.json' => 'data/word2slug.json' do |t|
 
       body = load_response_body(word_slug)
 
-      save_phrases = false
-
       unless body
-        save_phrases = true
-
         request_url = "https://www.ldoceonline.com/dictionary/#{word_slug}"
 
         sleep 1
@@ -168,9 +164,6 @@ task 'data/phrases.json' => 'data/word2slug.json' do |t|
       end
 
       word['entries'] = entries if entries.any?
-
-      # ダウンロードで時間がかかる場合は一旦保存
-      dump_json(t.name, phrases) if save_phrases
     end
   end
 
