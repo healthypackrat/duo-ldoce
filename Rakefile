@@ -167,7 +167,13 @@ task 'data/phrases.json' => 'data/word2slug.json' do |t|
     end
   end
 
+  well_known_words = File.readlines('data/well-known-words.txt').map(&:chomp)
+
   phrases = phrases.reject do |phrase|
+    phrase['words'] = phrase['words'].reject do |word|
+      well_known_words.include?(word['text'])
+    end
+
     phrase['words'].empty?
   end
 
