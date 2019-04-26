@@ -167,6 +167,10 @@ task 'data/phrases.json' => 'data/word2slug.json' do |t|
     end
   end
 
+  phrases = phrases.reject do |phrase|
+    phrase['words'].empty?
+  end
+
   dump_json(t.name, phrases)
 end
 
