@@ -1,2 +1,17 @@
+all
+and
+any
+can
+down
+for
+from
+into
+next
+now
+off
+oneself
+out
 that
 the
+with
+without
