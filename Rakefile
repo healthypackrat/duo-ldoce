@@ -150,7 +150,7 @@ task 'data/phrases.json' => 'data/word2slug.json' do |t|
       doc = Nokogiri::HTML(body)
 
       entries = doc.search('.Head > .speaker.amefile').map do |speaker_node|
-        pronunciation_url = speaker_node['data-src-mp3']
+        pronunciation_url = speaker_node['data-src-mp3']&.sub(/\?.*/, '')
 
         phonetic_node = speaker_node.parent.at('./span[@class="PronCodes"]')
         phonetic_text = phonetic_node && phonetic_node.text.gsub(/\s+/, ' ').strip
